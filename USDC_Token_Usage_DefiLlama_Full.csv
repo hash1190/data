@@ -1,0 +1,2833 @@
+Rank,Name,Category,USDC Amount (USD),% of Total
+1,Binance CEX,CEX,10478062088.86,26.7034%
+2,Hyperliquid Bridge,Bridge,4859682020.61,12.3849%
+3,Sky Lending,CDP,3988049632.22,10.1636%
+4,Maple,Lending,1529164270.33,3.8971%
+5,Centrifuge Protocol,RWA,1349719535.86,3.4398%
+6,Steakhouse Financial,Risk Curators,1229448002.05,3.1333%
+7,Anemoy Capital,RWA,1134863025.80,2.8922%
+8,Polygon Bridge,Chain,1101700338.70,2.8077%
+9,OKX,CEX,997526372.51,2.5422%
+10,Deribit,CEX,665664533.05,1.6965%
+11,Bybit,CEX,611606397.38,1.5587%
+12,Gauntlet,Risk Curators,590732569.06,1.5055%
+13,Lighter Bridge,Bridge,490336036.92,1.2496%
+14,Polymarket International,Prediction Market,450316116.41,1.1476%
+15,Hyperliquid HLP,Derivatives,394395595.62,1.0051%
+16,Veda,Onchain Capital Allocator,317553548.73,0.8093%
+17,Uniswap V3,Dexs,310194712.86,0.7905%
+18,Ethena USDe,Basis Trading,292763089.68,0.7461%
+19,Sentora,Risk Curators,288478777.92,0.7352%
+20,M0,Stablecoin Issuer,287192128.14,0.7319%
+21,Morpho Blue,Lending,277990664.71,0.7085%
+22,Curve DEX,Dexs,237187857.56,0.6045%
+23,Aave V3,Lending,234292461.59,0.5971%
+24,Bitget,CEX,218752159.25,0.5575%
+25,Re,RWA,192952414.25,0.4917%
+26,Pareto Credit,RWA Lending,180303485.64,0.4595%
+27,OnRe,RWA,170065131.95,0.4334%
+28,RealT Tokens,RWA,156823368.65,0.3997%
+29,Extended,Derivatives,156157051.49,0.3980%
+30,Hyperliquid Spot Orderbook,Dexs,150096805.30,0.3825%
+31,Jupiter Perpetual Exchange,Derivatives,147669327.98,0.3763%
+32,Uniswap V4,Dexs,139332908.67,0.3551%
+33,HTX,CEX,131763559.41,0.3358%
+34,Crypto-com,CEX,103098931.31,0.2627%
+35,dYdX V4,Derivatives,100380422.63,0.2558%
+36,Aera V3,Onchain Capital Allocator,95087849.32,0.2423%
+37,Ember Protocol,Onchain Capital Allocator,93911893.29,0.2393%
+38,Compound V3,Lending,93266255.65,0.2377%
+39,Unitas,Basis Trading,91610533.42,0.2335%
+40,Orca DEX,Dexs,89955833.02,0.2293%
+41,GMX V2 Perps,Derivatives,88169967.62,0.2247%
+42,Grove Finance,Onchain Capital Allocator,86433051.91,0.2203%
+43,KuCoin,CEX,83803967.03,0.2136%
+44,MEXC,CEX,82644948.65,0.2106%
+45,infiniFi,Yield,82089160.93,0.2092%
+46,Lulo,Yield Aggregator,81103248.65,0.2067%
+47,Jupiter Lend,Lending,80605747.66,0.2054%
+48,Upshift,Onchain Capital Allocator,75119197.67,0.1914%
+49,Euler V2,Lending,73397663.74,0.1871%
+50,Raydium AMM,Dexs,70419133.44,0.1795%
+51,KAIO,RWA,69626345.15,0.1774%
+52,Mainstreet,Basis Trading,68187829.35,0.1738%
+53,Spark Liquidity Layer,Onchain Capital Allocator,64972630.83,0.1656%
+54,cap,Lending,61274613.73,0.1562%
+55,Aerodrome Slipstream,Dexs,60204227.36,0.1534%
+56,Mantle Bridge,Canonical Bridge,58817435.19,0.1499%
+57,Fluid Lending,Lending,58197939.00,0.1483%
+58,Arbitrum Bridge,Canonical Bridge,56045522.46,0.1428%
+59,Tectonic,Lending,55264555.01,0.1408%
+60,RockawayX,Risk Curators,54343360.57,0.1385%
+61,SwissBorg,CEX,53438596.62,0.1362%
+62,PancakeSwap AMM V3,Dexs,53254693.22,0.1357%
+63,Stargate V2,Cross Chain Bridge,52518087.09,0.1338%
+64,Ostium,Derivatives,52372473.08,0.1335%
+65,Lagoon,Onchain Capital Allocator,52120796.57,0.1328%
+66,Exponent,Yield,52103146.35,0.1328%
+67,Avantis,Derivatives,48770752.34,0.1243%
+68,Aerodrome V1,Dexs,48583722.44,0.1238%
+69,Resolv,Basis Trading,46414159.98,0.1183%
+70,Aster Bridge,Bridge,43493230.03,0.1108%
+71,Decibel,Derivatives,43476666.72,0.1108%
+72,Vault Bridge,Risk Curators,42862899.10,0.1092%
+73,Concrete,Onchain Capital Allocator,42500293.46,0.1083%
+74,AlphaPing,Risk Curators,41815589.89,0.1066%
+75,Paradex Bridge,Bridge,41334240.37,0.1053%
+76,R25,RWA,40236622.81,0.1025%
+77,Venus Core Pool,Lending,39405897.08,0.1004%
+78,Meteora DLMM,Dexs,39001174.67,0.0994%
+79,Bitstamp,CEX,38591867.61,0.0984%
+80,Multipli.fi,Yield,36379442.50,0.0927%
+81,ether.fi Liquid,Onchain Capital Allocator,35566345.66,0.0906%
+82,Flying Tulip Yield,Services,34738487.09,0.0885%
+83,dYdX V3,Derivatives,34267751.86,0.0873%
+84,GMTrade,Derivatives,34254406.38,0.0873%
+85,Derive V2,Derivatives,33340172.94,0.0850%
+86,Avalanche Core Bridge,Canonical Bridge,32889995.73,0.0838%
+87,Moonlander,Derivatives,30663861.26,0.0781%
+88,CIAN Yield Layer,Yield Aggregator,30632455.77,0.0781%
+89,Optimism Bridge,Canonical Bridge,30394875.33,0.0775%
+90,Pacifica,Derivatives,30253908.52,0.0771%
+91,Gate,CEX,29254744.31,0.0746%
+92,KPK,Risk Curators,28436941.37,0.0725%
+93,Hyperithm,Risk Curators,27328940.81,0.0696%
+94,Bitfinex,CEX,26377271.76,0.0672%
+95,Kamino Lend,Lending,26111246.06,0.0665%
+96,Clearstar,Risk Curators,25584285.42,0.0652%
+97,Lista DEX,Dexs,24847001.39,0.0633%
+98,edgeX Bridge,Bridge,24654192.31,0.0628%
+99,Brickken,RWA,24543713.23,0.0625%
+100,zkSync Era txBridge,Canonical Bridge,24490858.57,0.0624%
+101,Aera V2,Onchain Capital Allocator,24143945.75,0.0615%
+102,Dolomite,Lending,23196050.13,0.0591%
+103,Yearn Finance,Yield Aggregator,22907638.64,0.0584%
+104,Block Analitica,Risk Curators,22522911.89,0.0574%
+105,YO Protocol,Yield Aggregator,21196430.32,0.0540%
+106,AUTOfinance,Yield,20860722.74,0.0532%
+107,PancakeSwap AMM,Dexs,20632367.34,0.0526%
+108,Arrakis Modular,Liquidity Manager,20371919.31,0.0519%
+109,Toobit,CEX,19995387.21,0.0510%
+110,OSL,CEX,19698879.00,0.0502%
+111,Railgun,Privacy,19480023.25,0.0496%
+112,Felix Vaults,Onchain Capital Allocator,19289289.53,0.0492%
+113,Backpack,CEX,19201775.35,0.0489%
+114,xDAI Stake Bridge,Canonical Bridge,19185387.58,0.0489%
+115,Gemini,CEX,19023430.68,0.0485%
+116,Aave V2,Lending,18547906.95,0.0473%
+117,BingX,CEX,18099332.31,0.0461%
+118,Enzyme Finance,Indexes,17858035.91,0.0455%
+119,EtherFi Borrowing Market,Lending,17405105.98,0.0444%
+120,Yearn Curating,Risk Curators,17324571.32,0.0442%
+121,Superform,Yield Aggregator,17268773.25,0.0440%
+122,VVS Standard,Dexs,17195491.08,0.0438%
+123,Hakutora,Risk Curators,17161921.69,0.0437%
+124,Neverland,Lending,16959681.13,0.0432%
+125,Piku,Yield,16927698.74,0.0431%
+126,Axelar,Bridge,15730154.19,0.0401%
+127,Orderly Bridge,Bridge,15605729.57,0.0398%
+128,Telos Consilium,Risk Curators,15033758.46,0.0383%
+129,BYDFi,CEX,14633094.05,0.0373%
+130,Aevo Perps,Derivatives,14186856.44,0.0362%
+131,PulseChain Bridge,Canonical Bridge,14138198.24,0.0360%
+132,Pulsechain,Chain,14138198.24,0.0360%
+133,Estate Protocol,RWA,13949192.02,0.0355%
+134,Neutral Trade,Onchain Capital Allocator,13922682.21,0.0355%
+135,Beefy,Yield Aggregator,13903390.95,0.0354%
+136,Lazy Summer Protocol,Yield Aggregator,13411240.95,0.0342%
+137,Native Credit Pool,Lending,12806176.66,0.0326%
+138,Phemex,CEX,12680899.63,0.0323%
+139,Api3,Risk Curators,12640629.49,0.0322%
+140,Tydro,Lending,12259010.27,0.0312%
+141,Aerodrome Ignition,Launchpad,12151174.67,0.0310%
+142,HyperLend Pooled,Lending,12121502.63,0.0309%
+143,Rysk V12,Options,12062349.70,0.0307%
+144,Save,Lending,12011563.69,0.0306%
+145,Portal,Bridge,11129476.10,0.0284%
+146,D2 Finance,Onchain Capital Allocator,10924922.58,0.0278%
+147,Blend Pools V2,Lending,10797949.29,0.0275%
+148,Extra Finance Leverage Farming,Leveraged Farming,10762521.11,0.0274%
+149,Suilend,Lending,10742511.87,0.0274%
+150,Gains Network,Derivatives,10497945.01,0.0268%
+151,DeepBook V3,Dexs,10339195.71,0.0263%
+152,PumpSwap,Dexs,10057013.08,0.0256%
+153,GAIB,RWA,9936892.20,0.0253%
+154,Meteora vaults,Yield Aggregator,9830695.41,0.0251%
+155,YieldNest,Onchain Capital Allocator,9758895.43,0.0249%
+156,Anthias Labs,Risk Curators,9726174.10,0.0248%
+157,Serum,Dexs,9724032.52,0.0248%
+158,Moonwell Vaults,Onchain Capital Allocator,9699218.87,0.0247%
+159,fx Protocol,Dual-Token Stablecoin,9619077.92,0.0245%
+160,Scroll Bridge,Canonical Bridge,9615802.34,0.0245%
+161,UltraYield Curator,Risk Curators,9593265.18,0.0244%
+162,NEAR Intents,Cross Chain Bridge,9514886.47,0.0242%
+163,Reserve Protocol,Indexes,9492803.82,0.0242%
+164,Apex Omni,Derivatives,9325673.58,0.0238%
+165,Euler DAO,Risk Curators,9321727.62,0.0238%
+166,Defi Saver,CDP Manager,9319488.03,0.0238%
+167,Camelot V3,Dexs,9220655.94,0.0235%
+168,Kasu,RWA Lending,8666136.92,0.0221%
+169,Tulipa Capital,Risk Curators,8596497.27,0.0219%
+170,Byte Exchange,CEX,8298585.60,0.0211%
+171,GrowiHF,Yield,8091325.82,0.0206%
+172,Lista Lending,Lending,7903911.52,0.0201%
+173,Compound V2,Lending,7900167.21,0.0201%
+174,BloFin,CEX,7897361.33,0.0201%
+175,Katana Pre-Launch,Farm,7710847.87,0.0197%
+176,Wildcat Protocol,Uncollateralized Lending,7667027.92,0.0195%
+177,AlphaLend,Lending,7518667.32,0.0192%
+178,Project X,Dexs,7397156.84,0.0189%
+179,Fusion by IPOR,Yield Aggregator,7244859.44,0.0185%
+180,Mellow Core,Onchain Capital Allocator,7201413.94,0.0184%
+181,Allbridge Core,Bridge,7179948.23,0.0183%
+182,Base Bridge,Canonical Bridge,7163202.65,0.0183%
+183,Bonzo Finance,Lending,7095282.33,0.0181%
+184,Rhea Lend,Lending,7036206.76,0.0179%
+185,MEV Capital,Risk Curators,6913159.64,0.0176%
+186,Alchemix V3,Synthetics,6801128.66,0.0173%
+187,Spectra MetaVaults,Onchain Capital Allocator,6680969.78,0.0170%
+188,Futarchy AMM,Dexs,6619058.81,0.0169%
+189,Gate US,CEX,6576505.10,0.0168%
+190,Astroport,Dexs,6304711.34,0.0161%
+191,JupUSD,Basis Trading,6276945.71,0.0160%
+192,Starknet Bridge,Canonical Bridge,6268550.77,0.0160%
+193,Meteora DAMM V2,Dexs,6264159.37,0.0160%
+194,UltraYield Vaults,Onchain Capital Allocator,6125720.54,0.0156%
+195,BitMart,CEX,6054079.17,0.0154%
+196,SX Rollup Bridge,Canonical Bridge,6050492.45,0.0154%
+197,Manifest Trade,Dexs,5987881.20,0.0153%
+198,Multichain,Bridge,5918536.91,0.0151%
+199,PancakeSwap Infinity,Dexs,5889198.19,0.0150%
+200,Bluefin Spot,Dexs,5813892.23,0.0148%
+201,Bluefin Pro,Derivatives,5778476.56,0.0147%
+202,Hyperion,Dexs,5686367.18,0.0145%
+203,Reya Bridge,Canonical Bridge,5678118.77,0.0145%
+204,Reservoir Protocol,CDP,5654249.01,0.0144%
+205,Origin Dollar,Yield Aggregator,5543121.84,0.0141%
+206,Zoomex,CEX,5469605.39,0.0139%
+207,Nado Spot,Dexs,5467804.82,0.0139%
+208,cBridge,Bridge,5231808.00,0.0133%
+209,Byreal,Dexs,5212317.48,0.0133%
+210,Re7 Labs,Risk Curators,5202503.66,0.0133%
+211,Harvest Finance,Yield Aggregator,5146302.48,0.0131%
+212,Defa By InvoiceMate,RWA,5113779.75,0.0130%
+213,Revert Lend,Lending,5097721.17,0.0130%
+214,Mole,Yield,5094502.09,0.0130%
+215,Saphyre V3,Dexs,5014747.67,0.0128%
+216,Arkis,Leveraged Farming,5004433.75,0.0128%
+217,Echelon Market,Lending,4864132.08,0.0124%
+218,Polygon zkEVM Bridge,Canonical Bridge,4742078.06,0.0121%
+219,Theo Straddle Vaults,Basis Trading,4705344.05,0.0120%
+220,Rhea Dex,Dexs,4698074.64,0.0120%
+221,NAVI Lending,Lending,4636139.04,0.0118%
+222,Templar Protocol,Lending,4584254.32,0.0117%
+223,VALR,CEX,4554902.87,0.0116%
+224,Credit Coop,RWA Lending,4545814.91,0.0116%
+225,Ekubo,Dexs,4530591.44,0.0115%
+226,Angstrom,Dexs,4511318.63,0.0115%
+227,Current,Lending,4465014.72,0.0114%
+228,Goblin,Yield Aggregator,4392879.61,0.0112%
+229,Ample,Yield Lottery,4377648.59,0.0112%
+230,Gravity Bridge,Bridge,4373722.76,0.0111%
+231,Metis Bridge,Canonical Bridge,4340692.41,0.0111%
+232,Hyperlane,Cross Chain Bridge,4248608.75,0.0108%
+233,Dango Bridge,Bridge,4125222.23,0.0105%
+234,APX Bridge,Bridge,4104696.05,0.0105%
+235,Parcl V3,Derivatives,3927575.38,0.0100%
+236,PinkSale,Launchpad,3856738.83,0.0098%
+237,YeiLend,Lending,3846499.21,0.0098%
+238,HyperWave,Yield,3761024.99,0.0096%
+239,Cetus CLMM,Dexs,3742885.22,0.0095%
+240,Aave Horizon RWA,RWA Lending,3701486.42,0.0094%
+241,TAU Labs,Risk Curators,3692945.27,0.0094%
+242,Figure Markets Exchange,OTC Marketplace,3690353.14,0.0094%
+243,SoDEX Bridge,Bridge,3663020.34,0.0093%
+244,Joe V2.2,Dexs,3609762.89,0.0092%
+245,Sport.fun,Prediction Market,3608834.13,0.0092%
+246,OSL HK,CEX,3592321.80,0.0092%
+247,Quickswap V3,Dexs,3591423.89,0.0092%
+248,Thorchain DEX,Dexs,3588838.87,0.0091%
+249,Vesu,Lending,3587825.35,0.0091%
+250,SaucerSwap V2,Dexs,3519123.91,0.0090%
+251,Velodrome V2,Dexs,3511435.93,0.0089%
+252,TxFlow Bridge,Bridge,3471350.17,0.0088%
+253,PulseX V1,Dexs,3398053.32,0.0087%
+254,Liminal,Basis Trading,3374193.47,0.0086%
+255,SyncSwap,Dexs,3333792.35,0.0085%
+256,Symbiosis,Cross Chain Bridge,3299749.20,0.0084%
+257,zkSync Lite Bridge,Canonical Bridge,3283458.12,0.0084%
+258,Velodrome V3,Dexs,3265037.83,0.0083%
+259,SparkLend,Lending,3250114.88,0.0083%
+260,DOOAR,Dexs,3190528.52,0.0081%
+261,Arcadia V2,Liquidity Manager,3176104.50,0.0081%
+262,AlphaFi Agg,Yield Aggregator,3137566.17,0.0080%
+263,eva Markets,RWA,3131224.68,0.0080%
+264,ZEROBASE CeDeFi,Basis Trading,3130209.52,0.0080%
+265,Synapse,Cross Chain Bridge,3087075.28,0.0079%
+266,Vesper,Yield Aggregator,3045752.91,0.0078%
+267,SushiSwap V3,Dexs,3025654.86,0.0077%
+268,Vectis Finance,Yield,3024358.43,0.0077%
+269,Hegic,Options,2983258.38,0.0076%
+270,CEX.IO,CEX,2966799.59,0.0076%
+271,TermFinance Vaults,Yield,2892807.59,0.0074%
+272,Ferro,Dexs,2891591.17,0.0074%
+273,Nucleus,Yield Aggregator,2880492.97,0.0073%
+274,Immutable zkEVM,Chain,2832587.08,0.0072%
+275,FlashTrade,Derivatives,2758817.32,0.0070%
+276,Bumpin Trade,Derivatives,2746216.86,0.0070%
+277,Poloniex,CEX,2745637.97,0.0070%
+278,IntentX,Derivatives,2731556.26,0.0070%
+279,Idle,Yield Aggregator,2719159.93,0.0069%
+280,Bracket Vaults,Onchain Capital Allocator,2710178.09,0.0069%
+281,Orbit Bridge,Bridge,2706102.72,0.0069%
+282,Nirvana V2,Reserve Currency,2696354.12,0.0069%
+283,Flux Finance,Lending,2687966.50,0.0069%
+284,Perena Vaults,Onchain Capital Allocator,2669144.68,0.0068%
+285,Spectra MetaVaults Outside V2,Onchain Capital Allocator,2634770.45,0.0067%
+286,PoolTogether V3,Yield Lottery,2611322.71,0.0067%
+287,Hastra,RWA,2608048.70,0.0066%
+288,Radpie,Yield,2578371.62,0.0066%
+289,Fuel Bridge,Bridge,2570545.98,0.0066%
+290,Monday Trade Perps,Derivatives,2559820.69,0.0065%
+291,SynFutures V3,Derivatives,2554778.64,0.0065%
+292,Osmosis DEX,Dexs,2472289.15,0.0063%
+293,Moonwell Lending,Lending,2439589.69,0.0062%
+294,Allbridge Classic,Bridge,2433982.92,0.0062%
+295,Scallop Lend,Lending,2423069.98,0.0062%
+296,Gearbox,Lending,2407859.74,0.0061%
+297,Hydration DEX,Dexs,2401172.97,0.0061%
+298,Chainflip AMM,Dexs,2352860.65,0.0060%
+299,Hyperbeat Earn,Yield Aggregator,2327367.13,0.0059%
+300,Loopscale,Lending,2307216.65,0.0059%
+301,Cronos zkEVM Bridge,Canonical Bridge,2303391.73,0.0059%
+302,MYX Finance,Derivatives,2287160.09,0.0058%
+303,Okcoin,CEX,2285083.80,0.0058%
+304,SYMMIO,Derivatives,2266749.42,0.0058%
+305,Syntropia,Yield Aggregator,2252322.34,0.0057%
+306,ThalaSwap V3,Dexs,2248497.89,0.0057%
+307,Generic.Money,Algo-Stables,2241563.45,0.0057%
+308,Meteora DAMM V1,Dexs,2211453.27,0.0056%
+309,Wan Bridge,Bridge,2201724.41,0.0056%
+310,Manta Pacific,Canonical Bridge,2179742.04,0.0056%
+311,LeveX,CEX,2158974.55,0.0055%
+312,Project 0,Lending,2147689.69,0.0055%
+313,Kai Finance,Leveraged Farming,2140075.92,0.0055%
+314,ICHI,Liquidity Manager,2109471.39,0.0054%
+315,Bitkub,CEX,2069681.63,0.0053%
+316,Ourbit,CEX,2011583.06,0.0051%
+317,DODO AMM,Dexs,2007328.55,0.0051%
+318,Katana DEX,Dexs,1987817.37,0.0051%
+319,BulbaSwap V3,Dexs,1982210.63,0.0051%
+320,DipCoin Perps,Derivatives,1919629.30,0.0049%
+321,Vest Markets,Derivatives,1919325.29,0.0049%
+322,Mezo Bridge,Bridge,1903388.98,0.0049%
+323,Aftermath afLP,Yield,1899810.68,0.0048%
+324,CoinEx,CEX,1889400.01,0.0048%
+325,marginfi Lending,Lending,1888738.03,0.0048%
+326,Moar Market,Leveraged Farming,1865890.51,0.0048%
+327,ELFi Protocol,Derivatives,1862865.11,0.0047%
+328,Hydrex Omni,Dexs,1857699.91,0.0047%
+329,BitVenus,CEX,1847961.00,0.0047%
+330,Dnax,Dexs,1847912.22,0.0047%
+331,Superfluid,Payments,1838253.19,0.0047%
+332,Fulcrom Perps,Derivatives,1833578.25,0.0047%
+333,K3 Capital,Risk Curators,1772492.22,0.0045%
+334,LandX Finance,RWA,1767511.89,0.0045%
+335,Dexalot Portfolio,Bridge,1759791.94,0.0045%
+336,Swaap Maker V2,Dexs,1750714.14,0.0045%
+337,Balancer V3,Dexs,1749537.30,0.0045%
+338,USX.Capital,Stablecoin Wrapper,1715875.75,0.0044%
+339,Chain Fusion,Decentralized BTC,1704908.45,0.0043%
+340,PoolTogether V5,Yield Lottery,1700914.30,0.0043%
+341,Across,Cross Chain Bridge,1695500.95,0.0043%
+342,Stargate V1,Cross Chain Bridge,1680082.21,0.0043%
+343,DipCoin Vault,Yield,1676493.18,0.0043%
+344,Pickle,Yield Aggregator,1675511.13,0.0043%
+345,Momentum,Dexs,1670291.44,0.0043%
+346,Aries Markets,Lending,1661754.24,0.0042%
+347,Sablier Lockup,Payments,1621216.17,0.0041%
+348,Exactly,Lending,1613267.91,0.0041%
+349,SushiSwap,Dexs,1609989.95,0.0041%
+350,NEST V1,Dexs,1597779.64,0.0041%
+351,Metronome Synth,Synthetics,1582318.33,0.0040%
+352,Waves Exchange,Farm,1558525.68,0.0040%
+353,Hydrex Integral,Dexs,1546464.60,0.0039%
+354,Pionex,CEX,1535690.72,0.0039%
+355,Privacy Pools,Privacy,1472123.58,0.0038%
+356,StableHodl,Yield,1464021.35,0.0037%
+357,Abyss,Yield,1463038.55,0.0037%
+358,Bitmex,CEX,1449431.34,0.0037%
+359,Zircuit Finance,Yield,1447980.27,0.0037%
+360,Drift Trade,Derivatives,1444296.89,0.0037%
+361,HashKey Exchange,CEX,1442036.17,0.0037%
+362,Taiko Bridge,Canonical Bridge,1426869.01,0.0036%
+363,Tothemoon,CEX,1409841.74,0.0036%
+364,ThalaSwap,Dexs,1402801.29,0.0036%
+365,Uniswap V2,Dexs,1381920.78,0.0035%
+366,Balancer V2,Dexs,1374459.99,0.0035%
+367,Royco V1,Yield,1362154.10,0.0035%
+368,Mento V2,Algo-Stables,1353577.25,0.0034%
+369,Canto Lending,Lending,1352470.09,0.0034%
+370,Overtime,Prediction Market,1334578.05,0.0034%
+371,ZeroLend Vaults,Risk Curators,1322829.15,0.0034%
+372,Rezerve Lending,Lending,1322788.55,0.0034%
+373,Bucket Protocol V2,CDP,1316529.57,0.0034%
+374,Goldfinch,RWA Lending,1311042.01,0.0033%
+375,Indodax,CEX,1280581.80,0.0033%
+376,Domination Finance,Derivatives,1271690.74,0.0032%
+377,Liquidity House,Prediction Market,1269037.10,0.0032%
+378,Satori Perp,Derivatives,1267720.23,0.0032%
+379,Knightrade,Onchain Capital Allocator,1243758.61,0.0032%
+380,STEAMM,Dexs,1212361.61,0.0031%
+381,ApeX Pro,Derivatives,1203452.94,0.0031%
+382,Tapp Exchange,Dexs,1200415.13,0.0031%
+383,UNCX Network V3,Token Locker,1199220.33,0.0031%
+384,Bucket CDP,CDP,1193455.16,0.0030%
+385,Sprinter,Yield,1183612.17,0.0030%
+386,Sonic Gateway,Canonical Bridge,1178720.68,0.0030%
+387,Troves,Yield,1175312.05,0.0030%
+388,Hanji Protocol,Dexs,1172861.75,0.0030%
+389,Hubble,CDP,1170744.21,0.0030%
+390,Deri V4,Options,1142604.88,0.0029%
+391,Yield Yak Aggregator,Yield Aggregator,1141784.29,0.0029%
+392,ForgeYields,Onchain Capital Allocator,1122224.19,0.0029%
+393,Boba Bridge,Canonical Bridge,1106274.19,0.0028%
+394,Team Finance,Token Locker,1092800.08,0.0028%
+395,Propbase,RWA,1092225.65,0.0028%
+396,Dexalot DEX,Dexs,1087857.51,0.0028%
+397,YieldSeeker,Yield Aggregator,1072761.95,0.0027%
+398,LlamaPay,Payments,1060565.12,0.0027%
+399,RISEx,Derivatives,1054102.07,0.0027%
+400,Loopring,Dexs,1051897.47,0.0027%
+401,Pyron,Lending,1049236.10,0.0027%
+402,Magma,Dexs,1042506.73,0.0027%
+403,Trueo,Prediction Market,1041366.19,0.0027%
+404,Cozy Earn,Insurance,1038530.41,0.0026%
+405,CHATEAU,RWA,1036455.03,0.0026%
+406,Everdex,Dexs,1035521.67,0.0026%
+407,KiloEx,Derivatives,1034573.24,0.0026%
+408,Namada Shielded Pools,Privacy,1018585.87,0.0026%
+409,mStable CDP,CDP,1014931.14,0.0026%
+410,ProBit Global,CEX,1005052.77,0.0026%
+411,OmniBTC,Lending,1003657.60,0.0026%
+412,UNCX Network V2,Token Locker,992221.16,0.0025%
+413,Kyan Blue Perps,Derivatives,977139.12,0.0025%
+414,Strata Markets,Yield,964710.83,0.0025%
+415,Fira,Lending,960317.01,0.0024%
+416,Turbos,Dexs,912977.85,0.0023%
+417,Phoenix Spot,Dexs,908559.45,0.0023%
+418,Typus DOV,Options Vault,908215.88,0.0023%
+419,Seamless Vaults,Onchain Capital Allocator,907558.33,0.0023%
+420,Lazy,Yield,903480.35,0.0023%
+421,NX Finance,Yield Aggregator,901467.93,0.0023%
+422,Quickswap V4,Dexs,896593.06,0.0023%
+423,Mode Bridge,Canonical Bridge,887122.19,0.0023%
+424,Ramses HL,Dexs,884487.21,0.0023%
+425,INIT Capital,Lending,883984.93,0.0023%
+426,Isle Finance,RWA Lending,876873.15,0.0022%
+427,WOOFi Swap,Dexs,868423.41,0.0022%
+428,DeFindex,Yield Aggregator,838464.09,0.0021%
+429,Angle,CDP,837795.98,0.0021%
+430,Trevee Earn,Yield Aggregator,835436.30,0.0021%
+431,Saber,Dexs,829810.78,0.0021%
+432,DFlow Prediction Market,Interface,824172.53,0.0021%
+433,LeverUp,Derivatives,819923.06,0.0021%
+434,Supernova CL,Dexs,813045.93,0.0021%
+435,Joe DEX,Dexs,810497.88,0.0021%
+436,Ring Few,Bridge,809783.27,0.0021%
+437,MetalX Lending,Lending,809347.18,0.0021%
+438,SuperReturn,Onchain Capital Allocator,805441.71,0.0021%
+439,OpenBook,Dexs,800576.28,0.0020%
+440,Notional V2,Lending,796722.28,0.0020%
+441,Overnight Finance,CDP,789190.28,0.0020%
+442,OmniYield,Yield Aggregator,783073.35,0.0020%
+443,Hop Protocol,Cross Chain Bridge,782499.99,0.0020%
+444,Capyfi,Lending,779672.20,0.0020%
+445,Accountable,Uncollateralized Lending,775330.05,0.0020%
+446,BiTomato,CEX,770571.27,0.0020%
+447,Merchant Moe Liquidity Book,Dexs,768297.42,0.0020%
+448,Hidden Hand,Governance Incentives,756121.99,0.0019%
+449,Jones DAO,Yield Aggregator,750139.84,0.0019%
+450,Carrot Liquidity,Yield Aggregator,749734.97,0.0019%
+451,MoneyFi,Yield Aggregator,735161.81,0.0019%
+452,Hinkal,Privacy,719805.42,0.0018%
+453,Shadow Exchange CLMM,Dexs,715178.09,0.0018%
+454,Etherex CL,Dexs,715101.20,0.0018%
+455,Sablier Flow,Payments,714134.03,0.0018%
+456,SpaceFi zkSync,Dexs,710792.15,0.0018%
+457,Hydro Inflow,Yield,705807.26,0.0018%
+458,Agni Finance,Dexs,697045.58,0.0018%
+459,QiDao,CDP,692503.14,0.0018%
+460,Sherpa,Onchain Capital Allocator,689951.06,0.0018%
+461,Coinstore,CEX,683781.88,0.0017%
+462,Ambient,Dexs,683214.31,0.0017%
+463,Giza,AI Agents,680751.86,0.0017%
+464,Bitvavo,CEX,676106.43,0.0017%
+465,Citrea Bridge,Bridge,674395.77,0.0017%
+466,Balancer V1,Dexs,669392.26,0.0017%
+467,Taiko Swap,Dexs,657794.52,0.0017%
+468,Belt Finance,Yield,652870.50,0.0017%
+469,SX Bet,Prediction Market,630896.65,0.0016%
+470,ZO Perps,Derivatives,618850.59,0.0016%
+471,Honeypop DEX,Dexs,617129.09,0.0016%
+472,Tetu Earn,Yield,614725.85,0.0016%
+473,DSU Money,CDP,611880.16,0.0016%
+474,Nexo,CEX,611191.31,0.0016%
+475,Legion,Launchpad,608012.62,0.0015%
+476,Set Protocol,Indexes,606382.69,0.0015%
+477,Aave V1,Lending,605672.23,0.0015%
+478,Gamma,Liquidity Manager,604672.28,0.0015%
+479,alphagrowth,Risk Curators,601300.59,0.0015%
+480,USD AI,RWA Lending,600254.67,0.0015%
+481,ZTLN-P,RWA,599976.59,0.0015%
+482,Flipster,CEX,598727.93,0.0015%
+483,OrangeX,CEX,597128.37,0.0015%
+484,Hatom Lending,Lending,597027.09,0.0015%
+485,Steer Protocol,Liquidity Manager,588726.66,0.0015%
+486,Sophon Bridge,Canonical Bridge,587024.57,0.0015%
+487,Arrakis V1,Liquidity Manager,585793.76,0.0015%
+488,MIM Swap,Dexs,583503.18,0.0015%
+489,DerivaDEX,Derivatives,580747.18,0.0015%
+490,Curvance,Lending,573810.73,0.0015%
+491,Limitless Exchange,Prediction Market,564191.34,0.0014%
+492,Whales Market,OTC Marketplace,558919.13,0.0014%
+493,Hydration Lending,Lending,556583.41,0.0014%
+494,Autofarm,Yield Aggregator,556138.96,0.0014%
+495,Volo Vault,Risk Curators,552010.96,0.0014%
+496,Korbit,CEX,550742.47,0.0014%
+497,Fluxion Network,Dexs,550144.66,0.0014%
+498,RealtyX,RWA,549623.21,0.0014%
+499,Benqi Lending,Lending,544983.14,0.0014%
+500,Morph Bridge,Bridge,544764.14,0.0014%
+501,Ronin Bridge,Canonical Bridge,542517.01,0.0014%
+502,DefiTuna Lending,Lending,538183.10,0.0014%
+503,Maverick V1,Dexs,537489.19,0.0014%
+504,Ghost,Lending,522014.90,0.0013%
+505,DefiTuna Liquidity,Liquidity Manager,517499.78,0.0013%
+506,Kromatika,Dexs,513299.68,0.0013%
+507,Ribbon,Options Vault,513256.94,0.0013%
+508,Arche,Yield,510523.28,0.0013%
+509,Almanak,Onchain Capital Allocator,509061.99,0.0013%
+510,IPOR Derivatives,Derivatives,507358.93,0.0013%
+511,Sherlock,Insurance,505238.89,0.0013%
+512,NetSwap,Dexs,504314.22,0.0013%
+513,Privacy Cash,Privacy,502997.70,0.0013%
+514,Liqwid,Lending,502408.76,0.0013%
+515,VVS Flawless,Dexs,501504.31,0.0013%
+516,Satsuma,Dexs,499843.32,0.0013%
+517,Notional Exponent,Leveraged Farming,487190.41,0.0012%
+518,Clober Liquidity Vault,Dexs,487144.80,0.0012%
+519,Sommelier,Onchain Capital Allocator,487118.18,0.0012%
+520,Koi Finance AMM,Dexs,487023.82,0.0012%
+521,Krystal,Liquidity Manager,483545.15,0.0012%
+522,Aptin Finance V2,Lending,477420.61,0.0012%
+523,DipCoin Spot,Dexs,472425.24,0.0012%
+524,Bastion,Lending,469862.50,0.0012%
+525,Kuru CLOB,Dexs,466939.66,0.0012%
+526,iZiSwap,Dexs,464934.73,0.0012%
+527,Nomiswap,Dexs,462340.22,0.0012%
+528,RollX,Derivatives,458052.40,0.0012%
+529,Teller,Lending,457870.89,0.0012%
+530,Meter Passport,Bridge,455783.73,0.0012%
+531,Arca Labs ArCoin,RWA,448480.36,0.0011%
+532,Figure Markets Democratized Prime,RWA Lending,443880.96,0.0011%
+533,Bitrue,CEX,435834.01,0.0011%
+534,Extra Finance Vaults,Onchain Capital Allocator,433108.11,0.0011%
+535,Arbitrum Nova Bridge,Canonical Bridge,427660.13,0.0011%
+536,SaucerSwap V1,Dexs,426851.81,0.0011%
+537,Venus Flux,Lending,426363.87,0.0011%
+538,Nerve,Dexs,418522.89,0.0011%
+539,cSigma Finance,RWA Lending,417257.53,0.0011%
+540,Astros Perp,Derivatives,411536.37,0.0010%
+541,Aave Aptos,Lending,409266.31,0.0010%
+542,Yelay V3,Yield Aggregator,406716.60,0.0010%
+543,MoreMarkets.xyz,Yield,406316.64,0.0010%
+544,Beam Swap,Dexs,401573.79,0.0010%
+545,Mayan DEX Aggregator,DEX Aggregator,401499.32,0.0010%
+546,Gnosis Protocol v1,Prediction Market,400544.02,0.0010%
+547,Takara Lend,Lending,397890.44,0.0010%
+548,Snowbl Capital,Onchain Capital Allocator,397430.34,0.0010%
+549,DELV Yield,Yield,394345.62,0.0010%
+550,Haedal Vault,Farm,391060.50,0.0010%
+551,Atrix,Dexs,390889.41,0.0010%
+552,HLP0,Yield,387817.55,0.0010%
+553,HyperSwap V3,Dexs,383989.52,0.0010%
+554,Extra Finance Xlend,Lending,379545.42,0.0010%
+555,Hashflow,DEX Aggregator,379272.20,0.0010%
+556,Perpetual Protocol,Derivatives,375380.54,0.0010%
+557,Haedal AMM Protocol,Dexs,373957.29,0.0010%
+558,Rho X,Derivatives,371559.72,0.0009%
+559,RamsesX Polygon CL,Dexs,371521.28,0.0009%
+560,Aave V4,Lending,366727.88,0.0009%
+561,Defi Swap,Dexs,364967.13,0.0009%
+562,OpenGDP Shared Security,Restaking,361831.93,0.0009%
+563,Streamflow,Payments,358794.74,0.0009%
+564,Thala CDP,CDP,357623.15,0.0009%
+565,DewFinance,Onchain Capital Allocator,352621.66,0.0009%
+566,Alien Base V3,Dexs,350097.65,0.0009%
+567,CORE Bridge,Canonical Bridge,349139.35,0.0009%
+568,TermMax,Lending,348209.08,0.0009%
+569,Avantgarde,Risk Curators,343095.75,0.0009%
+570,Carbon Defi,Dexs,340326.26,0.0009%
+571,Peer,Payments,337747.63,0.0009%
+572,Radiant V2,Lending,333481.91,0.0008%
+573,Apricot Finance,Lending,332841.07,0.0008%
+574,Ensuro,Insurance,331306.26,0.0008%
+575,MUX Perps,Derivatives,321487.98,0.0008%
+576,Camelot V2,Dexs,318886.77,0.0008%
+577,GMX V1 Perps,Derivatives,317078.67,0.0008%
+578,Snuggle,Liquidity Manager,316941.12,0.0008%
+579,Zero Network,Canonical Bridge,314906.86,0.0008%
+580,PulseX StableSwap,Dexs,313504.58,0.0008%
+581,Pumex,DEX Aggregator,312803.82,0.0008%
+582,Nolus Protocol,Lending,311413.13,0.0008%
+583,Pika,Derivatives,309976.70,0.0008%
+584,Cega V1,Options,308193.13,0.0008%
+585,LiquidSwap,Dexs,305827.95,0.0008%
+586,8lends,RWA Lending,305786.26,0.0008%
+587,SpookySwap V2,Dexs,305276.93,0.0008%
+588,NBX,CEX,298945.27,0.0008%
+589,Kava Lend,Lending,296108.10,0.0008%
+590,Reactor DEX,Dexs,292691.10,0.0007%
+591,Armada,Liquidity Manager,292506.33,0.0007%
+592,Pods Finance,Options,286540.77,0.0007%
+593,Cetus DLMM,Dexs,280519.67,0.0007%
+594,JediSwap V1,Dexs,278104.59,0.0007%
+595,Aura,Yield,277077.71,0.0007%
+596,xToken,Liquidity Manager,276566.25,0.0007%
+597,Phiat Protocol,Lending,274793.31,0.0007%
+598,Carrot Lend,Lending,273007.61,0.0007%
+599,BiFi,Lending,272993.14,0.0007%
+600,Full Sail,Dexs,272966.91,0.0007%
+601,Port Finance,Lending,269940.27,0.0007%
+602,Katana DEX V3,Dexs,269707.94,0.0007%
+603,Moonwell Apollo,Lending,269268.18,0.0007%
+604,GammaSwap Open Interest,Options,268238.48,0.0007%
+605,LOCKON,Indexes,266815.82,0.0007%
+606,Edel,Lending,266031.41,0.0007%
+607,WOO X,CEX,262790.83,0.0007%
+608,10KSwap,Dexs,259295.77,0.0007%
+609,Sovryn Bridge,Canonical Bridge,257176.41,0.0007%
+610,PsyOptions,Options,257151.26,0.0007%
+611,Kinza Finance,Lending,255275.90,0.0007%
+612,Kyo Finance,Dexs,254675.08,0.0006%
+613,Garden,Cross Chain Bridge,251838.20,0.0006%
+614,Mento V3,Dexs,251294.18,0.0006%
+615,Bancor V2.1,Dexs,251150.64,0.0006%
+616,Volmex,Yield,250671.69,0.0006%
+617,SuiDollar Basis,Basis Trading,250525.16,0.0006%
+618,MM Finance Cronos,Dexs,250391.03,0.0006%
+619,NonKYC,CEX,249811.90,0.0006%
+620,KyberSwap Classic,Dexs,249267.06,0.0006%
+621,Chest Finance,Options Vault,245833.64,0.0006%
+622,DoubleUp,Luck Games,245042.72,0.0006%
+623,Algofi Lend,Lending,243491.28,0.0006%
+624,Zivoe,RWA,243233.02,0.0006%
+625,DefiTuna AMM,Dexs,239199.57,0.0006%
+626,Spectra V2,Yield,237813.21,0.0006%
+627,Hashport,Bridge,234157.25,0.0006%
+628,Feather,Risk Curators,233045.25,0.0006%
+629,Bunni V2,Dexs,232528.47,0.0006%
+630,zkLink Nova,Chain,231808.14,0.0006%
+631,Ellipsis Finance,Dexs,230680.90,0.0006%
+632,Valiant Trade,Dexs,230384.81,0.0006%
+633,LendFlare,Lending,227738.27,0.0006%
+634,Cellana Finance,Dexs,227496.00,0.0006%
+635,DeltaPrime,Leveraged Farming,226436.00,0.0006%
+636,THENA INTEGRAL,Dexs,225007.94,0.0006%
+637,Ashswap,Dexs,224665.56,0.0006%
+638,Shadow Exchange Legacy,Dexs,223921.27,0.0006%
+639,Hyperdrive HL,Lending,223860.52,0.0006%
+640,PancakeSwap StableSwap,Dexs,222758.44,0.0006%
+641,Clipper,Dexs,222597.84,0.0006%
+642,DeltaSwap,Dexs,222265.38,0.0006%
+643,K2,Chain,221165.86,0.0006%
+644,Demex Perp,Derivatives,220640.55,0.0006%
+645,Kine Finance,Yield,220337.01,0.0006%
+646,Aequinox,Dexs,219367.65,0.0006%
+647,Levana Perps,Derivatives,217267.64,0.0006%
+648,BMX Classic Perps,Derivatives,215229.98,0.0005%
+649,ABEL Finance,Lending,214988.49,0.0005%
+650,Wasabi Perps,Derivatives,211529.20,0.0005%
+651,Clearpool Lending,Uncollateralized Lending,207869.80,0.0005%
+652,Sperax USD,Yield Aggregator,207546.71,0.0005%
+653,HypurrFi Pooled,Lending,204283.16,0.0005%
+654,Maverick V2,Dexs,202897.48,0.0005%
+655,Larix,Lending,199769.98,0.0005%
+656,APY Finance,Yield,199562.40,0.0005%
+657,SKALE Network Bridge,Bridge,199030.13,0.0005%
+658,Silo V1,Lending,198537.41,0.0005%
+659,Rocket Bridge,Bridge,198355.81,0.0005%
+660,Homora V2,Leveraged Farming,196588.92,0.0005%
+661,TheDeep,Liquidity Manager,196371.12,0.0005%
+662,Stability,Liquidity Manager,196058.00,0.0005%
+663,Outcome Finance,Synthetics,192958.26,0.0005%
+664,Stella,Leveraged Farming,192205.05,0.0005%
+665,Reaper Farm,Yield Aggregator,192017.17,0.0005%
+666,TanX.fi,Dexs,190586.23,0.0005%
+667,Perena Dex,Dexs,189453.04,0.0005%
+668,JustLend,Lending,189302.64,0.0005%
+669,Index Coop,Indexes,188741.00,0.0005%
+670,Rysk V1,Options,187463.93,0.0005%
+671,MaxShot,Onchain Capital Allocator,186947.84,0.0005%
+672,Etherex Legacy,Dexs,186612.45,0.0005%
+673,Monday Trade Spot,Dexs,185943.31,0.0005%
+674,Cozy V2,Insurance,184896.88,0.0005%
+675,Mycelium Perpetual Pools,Derivatives,184545.53,0.0005%
+676,Sablier Legacy,Payments,184175.50,0.0005%
+677,Impermax V2,Lending,183259.88,0.0005%
+678,Seamless V1,Lending,182634.19,0.0005%
+679,Peapods Finance,Yield,181577.22,0.0005%
+680,Trisolaris,Dexs,181009.87,0.0005%
+681,Smoothy,Dexs,178284.07,0.0005%
+682,mySwap V1,Dexs,178214.35,0.0005%
+683,Megaton Finance,Dexs,178007.94,0.0005%
+684,Secured Finance Lending,Lending,176190.25,0.0004%
+685,Jigsaw,CDP,176153.03,0.0004%
+686,Helix Spot,Dexs,176057.01,0.0004%
+687,Mendi Finance,Lending,175584.99,0.0004%
+688,Derive V1,Options,175232.29,0.0004%
+689,01,Derivatives,172588.77,0.0004%
+690,ether.fi Stake,Liquid Restaking,172560.48,0.0004%
+691,BitKan,CEX,172233.20,0.0004%
+692,Navigator,Derivatives,171650.63,0.0004%
+693,Velodrome V1,Dexs,170008.63,0.0004%
+694,Aegis Markets,Liquidity Manager,169820.53,0.0004%
+695,Adrena Protocol,Derivatives,167238.10,0.0004%
+696,Nostra Money Market,Lending,167226.43,0.0004%
+697,Renegade,Dexs,166660.70,0.0004%
+698,Antfarm finance,Liquidity Manager,166391.00,0.0004%
+699,Alpaca Finance 2.0,Lending,165731.34,0.0004%
+700,Butter Network,Cross Chain Bridge,165300.03,0.0004%
+701,MantisSwap,Dexs,163390.49,0.0004%
+702,Apostro,Risk Curators,161851.33,0.0004%
+703,Swappi,Dexs,160109.47,0.0004%
+704,deBridge,Bridge,159329.04,0.0004%
+705,Bounce.Tech,Derivatives,158740.94,0.0004%
+706,Meson,Cross Chain Bridge,158320.70,0.0004%
+707,Silo V2,Lending,157584.86,0.0004%
+708,Prime Protocol,Lending,157333.77,0.0004%
+709,Layer2 Finance,Yield,155150.43,0.0004%
+710,Thetanuts Finance,Yield,154829.62,0.0004%
+711,Beta Finance V1,Lending,154013.13,0.0004%
+712,Sushi Aptos,Dexs,152689.40,0.0004%
+713,Bullbit PERP DEX,Derivatives,152615.02,0.0004%
+714,Solarbeam,Dexs,151646.31,0.0004%
+715,Untangled Vault,Onchain Capital Allocator,151312.22,0.0004%
+716,Lynx,Derivatives,151007.64,0.0004%
+717,BMX Freestyle,Derivatives,150843.70,0.0004%
+718,SecretSwap,Dexs,150347.00,0.0004%
+719,Mayan Bridge,Bridge,149541.45,0.0004%
+720,Alphix,Dexs,146471.70,0.0004%
+721,Rari Capital,Yield Aggregator,144667.55,0.0004%
+722,Ribbon Earn,Options,143942.00,0.0004%
+723,SwapX Algebra,Dexs,142604.35,0.0004%
+724,Voltz,Derivatives,142457.05,0.0004%
+725,Beets DEX,Dexs,141964.41,0.0004%
+726,Nostra Pools,Dexs,141037.42,0.0004%
+727,SingularityDAO,Yield,140450.90,0.0004%
+728,GlowSwap,Dexs,140285.97,0.0004%
+729,Blackwing,Farm,138341.12,0.0004%
+730,ZeroLend Lending,Lending,138246.46,0.0004%
+731,EZManager,Liquidity Manager,136652.98,0.0003%
+732,Wombat Exchange,Dexs,136084.78,0.0003%
+733,Biswap V2,Dexs,135743.37,0.0003%
+734,BounceBit CeDeFi Yield,Basis Trading,134735.04,0.0003%
+735,Stryke CLAMM,Options,133331.13,0.0003%
+736,Saphyre V2,Dexs,132315.03,0.0003%
+737,Dfyn Network,Dexs,132289.36,0.0003%
+738,Fastex,CEX,128841.44,0.0003%
+739,OpenTrade,RWA,128825.20,0.0003%
+740,CronaSwap,Dexs,127597.43,0.0003%
+741,Zora Bridge,Canonical Bridge,127360.65,0.0003%
+742,Verified Network,RWA,126704.61,0.0003%
+743,Umami Finance,Yield,126506.76,0.0003%
+744,Bridgers,Dexs,126070.82,0.0003%
+745,MochiFi,Lending,126060.98,0.0003%
+746,zkBob,Privacy,125195.18,0.0003%
+747,InsureDAO,Insurance,123660.85,0.0003%
+748,Typus Perp,Derivatives,123010.23,0.0003%
+749,Sushi BentoBox,Yield,122511.94,0.0003%
+750,Moonswap,Dexs,122464.57,0.0003%
+751,Hypersurface,Options,122072.03,0.0003%
+752,H2 Finance V2,Dexs,121291.74,0.0003%
+753,Timeswap V2,Lending,120659.80,0.0003%
+754,Alphadex,Dexs,119972.11,0.0003%
+755,Comet Swap V3,Dexs,119909.00,0.0003%
+756,Tizi,Yield Aggregator,118841.32,0.0003%
+757,Goat Protocol,Yield Aggregator,118411.15,0.0003%
+758,Blend Money,Onchain Capital Allocator,117618.06,0.0003%
+759,mySwap CL,Dexs,115962.73,0.0003%
+760,Ajna V2,Lending,115607.61,0.0003%
+761,Lavarage,Derivatives,115291.03,0.0003%
+762,Vaultedge,CDP,114887.25,0.0003%
+763,Kittenswap Algebra,Dexs,114562.81,0.0003%
+764,Tokos,Lending,114550.08,0.0003%
+765,GrizzlyFi Hives,Yield,114098.43,0.0003%
+766,Dual Finance,Options,113930.39,0.0003%
+767,Superfund,Onchain Capital Allocator,113804.33,0.0003%
+768,SHPRD,Indexes,112864.63,0.0003%
+769,RockSolid Network,Yield,112015.14,0.0003%
+770,Hotcoin,CEX,111993.76,0.0003%
+771,ApeSwap AMM,Dexs,111491.67,0.0003%
+772,RadioShack,Dexs,111446.84,0.0003%
+773,Xave Finance,Dexs,111423.64,0.0003%
+774,SharkSwap,Dexs,111106.88,0.0003%
+775,Compound Blue,Lending,110633.10,0.0003%
+776,PEAKDEFI,Yield,110623.12,0.0003%
+777,ThalaSwap V2,Dexs,110109.41,0.0003%
+778,IDEX Classic,Dexs,109907.50,0.0003%
+779,ZyFAI,Yield,109207.27,0.0003%
+780,Bitbond Lockers,Token Locker,108902.49,0.0003%
+781,Muscadine,Risk Curators,108254.87,0.0003%
+782,Tarot,Lending,106922.17,0.0003%
+783,DexFi Aggregator,Yield Aggregator,106842.76,0.0003%
+784,Snowflake Exchange,Dexs,106477.92,0.0003%
+785,Meshswap,Dexs,106401.68,0.0003%
+786,HashKey Global,CEX,106009.37,0.0003%
+787,xSigma,Dexs,105864.31,0.0003%
+788,Revert Compoundor,Liquidity Automation,105368.49,0.0003%
+789,Atomic Green,Derivatives,105295.19,0.0003%
+790,Shido Dex V3,Dexs,104276.99,0.0003%
+791,Shido Dex V2,Dexs,104276.99,0.0003%
+792,Integral,Dexs,103396.09,0.0003%
+793,Aftermath AMM,Dexs,103251.27,0.0003%
+794,TaoFi,Dexs,103010.70,0.0003%
+795,HMX,Derivatives,102532.57,0.0003%
+796,Iron Finance,CDP,101835.06,0.0003%
+797,Yam Finance,Synthetics,100595.93,0.0003%
+798,BabyDogeSwap,Dexs,100435.23,0.0003%
+799,dForce Lending,Lending,100090.56,0.0003%
+800,FlowX V3,Dexs,99993.18,0.0003%
+801,ZebraDAO,Lending,99976.94,0.0003%
+802,Spreads Finance Yield,Yield,99941.92,0.0003%
+803,Unified Labs,Risk Curators,99834.39,0.0003%
+804,Lucidly Finance,Yield,99386.07,0.0003%
+805,Zama,Privacy,98135.90,0.0003%
+806,Puzzle Swap,Dexs,97612.95,0.0002%
+807,ChimpX AI DEX,Dexs,97360.85,0.0002%
+808,HyperSwap V2,Dexs,96515.06,0.0002%
+809,Ferra DLMM,Dexs,96323.26,0.0002%
+810,StratEx,Yield Aggregator,96300.49,0.0002%
+811,Hats.V2,Bug Bounty,96179.48,0.0002%
+812,Levinswap,Dexs,95884.02,0.0002%
+813,Pika V4,Derivatives,95292.02,0.0002%
+814,GammaSwap Yield Tokens,Yield,94779.03,0.0002%
+815,Hercules V3,Dexs,94757.09,0.0002%
+816,Bonkswap,Dexs,94401.28,0.0002%
+817,LiveArt,RWA,93884.07,0.0002%
+818,CVI Finance,Synthetics,93340.63,0.0002%
+819,Yieldoor,Leveraged Farming,92761.77,0.0002%
+820,Fraxtal,Chain,92470.89,0.0002%
+821,Cropper AMM,Dexs,92313.47,0.0002%
+822,Gaming DEX,Dexs,91486.92,0.0002%
+823,Vendor V2,Lending,91394.16,0.0002%
+824,Arbswap AMM,Dexs,90719.37,0.0002%
+825,Ledgity Yield,Yield,90484.66,0.0002%
+826,Duality,Dexs,89432.86,0.0002%
+827,Hermes V1,Dexs,89280.63,0.0002%
+828,Serum Swap,Dexs,88726.37,0.0002%
+829,Gyroscope Protocol,Dexs,88621.82,0.0002%
+830,Premia V3,Options,86679.97,0.0002%
+831,Siren,Options,86479.02,0.0002%
+832,Rooster Protocol V2,Dexs,86451.67,0.0002%
+833,Basis Cash,Algo-Stables,86311.02,0.0002%
+834,Metropolis DLMM,Dexs,85618.97,0.0002%
+835,XSwap V3,Dexs,85571.02,0.0002%
+836,SpartaDex,Dexs,85542.04,0.0002%
+837,Zenlink AMM,Dexs,85530.90,0.0002%
+838,Aurigami,Lending,85439.69,0.0002%
+839,Minswap DEX,Dexs,84137.51,0.0002%
+840,PolyQuity,CDP,83657.69,0.0002%
+841,YieldFlow-YTrade,Derivatives,83226.96,0.0002%
+842,AggreLend,Yield Aggregator,82729.85,0.0002%
+843,xWin Finance,Indexes,82650.55,0.0002%
+844,Omnipair,Lending,82433.85,0.0002%
+845,Pangolin V2,Dexs,82358.89,0.0002%
+846,Iron Bank,Lending,81861.86,0.0002%
+847,Cypher V4,Dexs,81809.68,0.0002%
+848,Radiant V1,Lending,81679.51,0.0002%
+849,Wing Finance,Lending,81674.01,0.0002%
+850,Metropolis DLMM Vaults,Liquidity Manager,81391.80,0.0002%
+851,Polycat,Farm,81230.23,0.0002%
+852,Lynex V2,Dexs,80332.79,0.0002%
+853,Invariant,Dexs,79854.30,0.0002%
+854,Wrap Protocol,Synthetics,79791.24,0.0002%
+855,Hybra V4,Dexs,78951.93,0.0002%
+856,Skate AMM,Dexs,78193.67,0.0002%
+857,PHUX,Dexs,77780.89,0.0002%
+858,ReactorFusion,Lending,77648.08,0.0002%
+859,Cega V2,Options,77644.12,0.0002%
+860,Crema Finance,Dexs,77627.67,0.0002%
+861,Velocore V1,Dexs,77446.00,0.0002%
+862,Javsphere,Derivatives,76685.18,0.0002%
+863,Sturdy V1,Lending,75552.02,0.0002%
+864,Clovis,Yield Aggregator,75287.76,0.0002%
+865,Aldrin,Dexs,74778.62,0.0002%
+866,JetSwap,Dexs,74337.67,0.0002%
+867,AshPerp,Derivatives,74019.76,0.0002%
+868,PHAME Protocol,Derivatives,73618.98,0.0002%
+869,SuiDex,Dexs,71242.75,0.0002%
+870,Treble V2,Dexs,70994.05,0.0002%
+871,Turtle Club,Onchain Capital Allocator,70938.73,0.0002%
+872,THENA FUSION,Dexs,70252.88,0.0002%
+873,BaseVol,Options,69605.53,0.0002%
+874,zkSwap V2,Dexs,69515.58,0.0002%
+875,Swerve,Dexs,69302.27,0.0002%
+876,SithSwap,Dexs,68651.24,0.0002%
+877,Swaylend,Lending,68548.71,0.0002%
+878,XION Finance,Chain,68093.44,0.0002%
+879,SiennaSwap,Dexs,68045.07,0.0002%
+880,GemSwap by Golden Swan Solutions,RWA,67975.49,0.0002%
+881,TYMIO,Options,67957.36,0.0002%
+882,Spreads Finance Leverage,Lending,67005.05,0.0002%
+883,9mm V3,Dexs,66623.44,0.0002%
+884,SynFutures V1,Derivatives,66288.66,0.0002%
+885,DeFive,Dexs,66050.82,0.0002%
+886,WePiggy,Lending,65579.14,0.0002%
+887,Stabull Finance,Dexs,65417.18,0.0002%
+888,zkSwap V3,Dexs,65365.94,0.0002%
+889,Travessia Credit,RWA Lending,64415.05,0.0002%
+890,Muffin,Dexs,64354.42,0.0002%
+891,OpenEden USDO,RWA,64302.12,0.0002%
+892,Valence,Treasury Manager,64262.24,0.0002%
+893,Rook,Dexs,64070.02,0.0002%
+894,Jarvis Network,Derivatives,63960.71,0.0002%
+895,zkSwap StableSwap,Dexs,63580.39,0.0002%
+896,Unitus,Lending,63220.40,0.0002%
+897,SatoshiCoreSwap,Dexs,62971.68,0.0002%
+898,Katana,Options Vault,62732.30,0.0002%
+899,Bitbond Sales,Launchpad,62026.33,0.0002%
+900,ArthSwap V2,Dexs,61896.62,0.0002%
+901,stabble Stableswap,Dexs,61663.69,0.0002%
+902,Zomma Protocol,Options,61402.73,0.0002%
+903,Scale,Dexs,60931.11,0.0002%
+904,Rubicon,Dexs,60466.84,0.0002%
+905,Maya Protocol,Cross Chain Bridge,60311.98,0.0002%
+906,MojitoSwap,Dexs,60252.78,0.0002%
+907,Nemo Vault,Yield Aggregator,60077.55,0.0002%
+908,SOLID,CDP,59985.41,0.0002%
+909,Capricorn,Dexs,59228.12,0.0002%
+910,BigONE,CEX,59199.94,0.0002%
+911,Oddz,Options,59053.60,0.0002%
+912,Finext Finance,Algo-Stables,59021.46,0.0002%
+913,Stabl.fi V1,Yield,59014.94,0.0002%
+914,VenomBridge,Bridge,58809.50,0.0001%
+915,BarnBridge,Yield Aggregator,58526.61,0.0001%
+916,Hibt,CEX,57760.11,0.0001%
+917,EvmoSwap,Dexs,57646.18,0.0001%
+918,AlphaX,Derivatives,57586.49,0.0001%
+919,DxSale,Launchpad,57519.97,0.0001%
+920,Aave Arc,Lending,57258.28,0.0001%
+921,Injective Bridge,Bridge,57082.53,0.0001%
+922,Solidly V3,Dexs,54423.22,0.0001%
+923,Astrovault,Dexs,54215.16,0.0001%
+924,Kizzy,Prediction Market,54151.34,0.0001%
+925,InfinityPools,Derivatives,54018.22,0.0001%
+926,9Summits,Risk Curators,54012.16,0.0001%
+927,YFII,Yield Aggregator,53430.40,0.0001%
+928,Vires Finance,Lending,53076.77,0.0001%
+929,Starlay Finance,Lending,53052.13,0.0001%
+930,Ribbon Lend,Uncollateralized Lending,52723.72,0.0001%
+931,StarkDeFI,Dexs,52710.41,0.0001%
+932,1inch,DEX Aggregator,52184.81,0.0001%
+933,Gudchain,Farm,52116.34,0.0001%
+934,Typus Safu,Yield,52022.88,0.0001%
+935,Microchain,Dexs,51860.00,0.0001%
+936,Thesauros,Yield,51763.73,0.0001%
+937,Hedgehog Markets,Prediction Market,51576.86,0.0001%
+938,SakeFinance,Lending,51542.58,0.0001%
+939,AstridDAO,CDP,51452.18,0.0001%
+940,Hubra,Yield,51422.35,0.0001%
+941,Single Finance,Leveraged Farming,50965.05,0.0001%
+942,Umbra,Dexs,50851.96,0.0001%
+943,Ionic Protocol,Lending,50725.21,0.0001%
+944,Superposition,Lending,50721.58,0.0001%
+945,Aptin Finance V1,Lending,50310.89,0.0001%
+946,Deri Protocol,Options,50145.15,0.0001%
+947,Teahouse Managed,Yield Aggregator,49701.86,0.0001%
+948,JustBet,Luck Games,49326.91,0.0001%
+949,Amply Finance,Lending,49299.79,0.0001%
+950,Pingu Exchange,Derivatives,48871.01,0.0001%
+951,UFarm Digital,Onchain Capital Allocator,48862.69,0.0001%
+952,PRDT,Prediction Market,47987.20,0.0001%
+953,Unchain X,Dexs,47893.90,0.0001%
+954,Union Protocol,Uncollateralized Lending,47734.45,0.0001%
+955,DeltaTrade,Dexs,47606.10,0.0001%
+956,Supernova AMM,Dexs,47551.47,0.0001%
+957,LayerBank,Lending,47538.05,0.0001%
+958,Balmy,DCA Tools,47510.96,0.0001%
+959,Saros DLMM,Dexs,47128.39,0.0001%
+960,Nabla Finance,Dexs,46913.89,0.0001%
+961,XAI Bridge,Canonical Bridge,46134.88,0.0001%
+962,InsurAce,Insurance,46095.05,0.0001%
+963,Swamp Finance,Yield,45989.74,0.0001%
+964,Planet Farm,Yield,45936.73,0.0001%
+965,OrderNChaos,Algo-Stables,45859.91,0.0001%
+966,StellaSwap V2,Dexs,45657.65,0.0001%
+967,Sanko Bridge,Canonical Bridge,45172.46,0.0001%
+968,Algebra DEX,Dexs,45113.16,0.0001%
+969,Credix,RWA Lending,44983.28,0.0001%
+970,PICWE,Dexs,44865.74,0.0001%
+971,Lynex V1,Dexs,44817.33,0.0001%
+972,KyberSwap Elastic,Dexs,44711.10,0.0001%
+973,Yield Protocol,Lending,44452.61,0.0001%
+974,Lake Protocol,Yield,44338.34,0.0001%
+975,Mellow Yield,Yield Aggregator,44129.74,0.0001%
+976,Somnia Exchange,Dexs,43714.31,0.0001%
+977,Charm Finance V1,Liquidity Manager,43535.33,0.0001%
+978,Tethys AMM,Dexs,43459.37,0.0001%
+979,HaloDAO,Yield,43421.75,0.0001%
+980,Infusion,Dexs,43099.71,0.0001%
+981,GoodEntry,Derivatives,43033.78,0.0001%
+982,Mero,Yield,42964.73,0.0001%
+983,Varlamore Capital,Risk Curators,42879.67,0.0001%
+984,Neptune Finance,Lending,42321.68,0.0001%
+985,Ajna V1,Lending,42198.88,0.0001%
+986,DragonSwap V3 Kaia,Dexs,42177.25,0.0001%
+987,Tetu Swap,Yield,41723.94,0.0001%
+988,BasisOS,Basis Trading,41265.32,0.0001%
+989,Premia V2,Options,41260.16,0.0001%
+990,TurboFlow,Derivatives,41232.31,0.0001%
+991,Frontrun Market,Services,40991.62,0.0001%
+992,Vovo Finance,Yield,40282.99,0.0001%
+993,Dyson Finance,Dexs,40224.66,0.0001%
+994,MDEX,Dexs,40063.00,0.0001%
+995,Arbitrove,Indexes,39969.16,0.0001%
+996,Granary Finance,Lending,39841.81,0.0001%
+997,Coin8,CEX,39824.16,0.0001%
+998,Cybro,Yield Aggregator,39683.82,0.0001%
+999,Stabil Finance,Yield Aggregator,39405.98,0.0001%
+1000,Yield Millionaire,Yield,39189.13,0.0001%
+1001,Raindex,Dexs,39104.59,0.0001%
+1002,Fungify,Lending,39046.71,0.0001%
+1003,Opium,Options,39030.17,0.0001%
+1004,Olive,Options Vault,38472.22,0.0001%
+1005,Sovryn Dex,Dexs,38343.21,0.0001%
+1006,FlowX V2,Dexs,38252.83,0.0001%
+1007,Metastable,CDP,38245.36,0.0001%
+1008,LuaSwap,Dexs,38160.71,0.0001%
+1009,Bucket Farm,Farm,38109.02,0.0001%
+1010,FIN,Dexs,38025.18,0.0001%
+1011,Counterstake,Cross Chain Bridge,37810.41,0.0001%
+1012,O.LAB,Prediction Market,37593.41,0.0001%
+1013,Atlantis DEX,Dexs,37427.96,0.0001%
+1014,BrownFi,Dexs,37399.54,0.0001%
+1015,River Omni-CDP,CeDeFi,37393.76,0.0001%
+1016,Lifinity V2,Dexs,37264.65,0.0001%
+1017,InSwap,Dexs,37236.13,0.0001%
+1018,Risk Harbor,Insurance,36914.75,0.0001%
+1019,1sec,Bridge,36699.65,0.0001%
+1020,CompliFi,Derivatives,36571.42,0.0001%
+1021,Nitron,CDP,36397.60,0.0001%
+1022,Exmo,CEX,36334.74,0.0001%
+1023,Ramses CL,Dexs,36287.53,0.0001%
+1024,Swim Protocol,Cross Chain Bridge,36062.66,0.0001%
+1025,Hedge,CDP,35982.62,0.0001%
+1026,DorkFi,Lending,35869.19,0.0001%
+1027,Aloe,Lending,35805.23,0.0001%
+1028,atomiq exchange,Cross Chain Bridge,35438.59,0.0001%
+1029,Saddle Finance,Dexs,35279.95,0.0001%
+1030,Ebisus Bay,Dexs,35223.23,0.0001%
+1031,Sail.Money,Yield,34991.53,0.0001%
+1032,Supra Bridge,Canonical Bridge,34955.10,0.0001%
+1033,Contango V1,Derivatives,34833.34,0.0001%
+1034,Gravity Finance,Dexs,34500.34,0.0001%
+1035,10KDex,Derivatives,33752.03,0.0001%
+1036,Cog,Lending,33656.53,0.0001%
+1037,Kriya CLMM,Dexs,33300.73,0.0001%
+1038,Crow Finance,Dexs,33225.42,0.0001%
+1039,Adamant Finance,Yield,33215.43,0.0001%
+1040,1INTRO,Dexs,33102.31,0.0001%
+1041,SquadSwap WOW,Dexs,32955.05,0.0001%
+1042,Morpho Optimizer AaveV2,Lending,32600.19,0.0001%
+1043,Robinhood,CEX,32543.32,0.0001%
+1044,9inch V2,Dexs,32377.67,0.0001%
+1045,Bancor V3,Dexs,31786.53,0.0001%
+1046,ioTube,Bridge,31626.11,0.0001%
+1047,CallPut,Options,31543.10,0.0001%
+1048,Derivio,Derivatives,31463.26,0.0001%
+1049,PhotonSwap Finance,Dexs,31299.71,0.0001%
+1050,IXS,Dexs,31149.47,0.0001%
+1051,OolongSwap,Dexs,31047.39,0.0001%
+1052,Timeswap V1,Lending,30932.27,0.0001%
+1053,FusionX V3,Dexs,30866.96,0.0001%
+1054,ApeSwap Lending,Lending,30835.01,0.0001%
+1055,Orion Liquidity Nodes,Dexs,30787.80,0.0001%
+1056,Nostra Money Market Alpha,Lending,30748.90,0.0001%
+1057,Enclabs,Lending,30623.78,0.0001%
+1058,Hybra V3,Dexs,30583.90,0.0001%
+1059,DFX V2,Dexs,29965.16,0.0001%
+1060,Value Liquid,Dexs,29895.95,0.0001%
+1061,GuacSwap,Dexs,29820.35,0.0001%
+1062,Tornado Cash,Privacy,29693.15,0.0001%
+1063,2THICK,Dexs,29477.42,0.0001%
+1064,Polycat Dex,Dexs,29465.17,0.0001%
+1065,B.Protocol Curator,Risk Curators,29326.13,0.0001%
+1066,Hypertrade V3,Dexs,29140.46,0.0001%
+1067,Carmine Options,Options,29017.82,0.0001%
+1068,Pepu Bridge,Bridge,28961.60,0.0001%
+1069,Coinswap Space,Dexs,28870.98,0.0001%
+1070,Lifinity V1,Dexs,28843.20,0.0001%
+1071,ShibaSwap V1,Dexs,28780.99,0.0001%
+1072,Cytonic Airdrop Campaign,Farm,28709.95,0.0001%
+1073,YokaiSwap,Dexs,28380.48,0.0001%
+1074,Swapr V2,Dexs,28180.39,0.0001%
+1075,Swap Country,Dexs,27094.51,0.0001%
+1076,Locus Finance,Yield,26921.24,0.0001%
+1077,Affine DeFi Earn,Yield Aggregator,26733.46,0.0001%
+1078,Dove Swap V3,Dexs,26701.13,0.0001%
+1079,Bundles,Indexes,26578.74,0.0001%
+1080,Arch,Indexes,26482.51,0.0001%
+1081,ImmutableX,NFT Marketplace,26113.77,0.0001%
+1082,PepeTeam Bridge,Bridge,26102.17,0.0001%
+1083,Rose,Dexs,26039.82,0.0001%
+1084,Milk Finance,Lending,25921.84,0.0001%
+1085,Lunarbase,Dexs,25793.70,0.0001%
+1086,Fractal Protocol,Yield,25664.01,0.0001%
+1087,Nimbora Yield,Yield,25516.36,0.0001%
+1088,BOB Bridge,Bridge,25502.22,0.0001%
+1089,Sentiment,Lending,25390.69,0.0001%
+1090,Shell Protocol,Dexs,25322.86,0.0001%
+1091,Meso Finance,Lending,25078.02,0.0001%
+1092,Yusan,Lending,25050.60,0.0001%
+1093,AstroSwap AMM,Dexs,24836.20,0.0001%
+1094,Tidal Finance,Insurance,24742.73,0.0001%
+1095,SnowSwap,Dexs,24669.90,0.0001%
+1096,Fuji V1,Lending,24502.10,0.0001%
+1097,Sideswap,Dexs,24495.44,0.0001%
+1098,Mars Lend,Lending,24394.17,0.0001%
+1099,Relend Network,Risk Curators,24274.87,0.0001%
+1100,WannaSwap,Dexs,24179.36,0.0001%
+1101,StableKoi,Dexs,24031.88,0.0001%
+1102,Biswap V3,Dexs,23982.61,0.0001%
+1103,ISSUAA,Dexs,23952.62,0.0001%
+1104,Honeyswap,Dexs,23776.72,0.0001%
+1105,StarSwap,Dexs,23769.43,0.0001%
+1106,USDFI Lending,Lending,23698.89,0.0001%
+1107,Skydrome,Dexs,23617.36,0.0001%
+1108,Resonate Finance,Yield,23397.66,0.0001%
+1109,Cap Finance v1-v3,Derivatives,23283.67,0.0001%
+1110,Umee,Lending,23239.40,0.0001%
+1111,Credit Guild,Lending,23224.48,0.0001%
+1112,WagyuSwap,Dexs,23121.46,0.0001%
+1113,Boson Protocol,RWA,22983.86,0.0001%
+1114,maxAPY,Yield Aggregator,22941.04,0.0001%
+1115,EthicHub,RWA Lending,22904.61,0.0001%
+1116,Lixir Finance,Liquidity Manager,22898.55,0.0001%
+1117,SYNO Finance,Lending,22633.51,0.0001%
+1118,wefi,Lending,22618.41,0.0001%
+1119,Sector Finance,Yield,22470.55,0.0001%
+1120,Gro,Yield,22294.09,0.0001%
+1121,Lunos,Insurance,22278.33,0.0001%
+1122,Bountive,Yield,22234.05,0.0001%
+1123,YLDR,Lending,22157.69,0.0001%
+1124,88mph,Lending,22059.69,0.0001%
+1125,CGX Finance,Dexs,21899.33,0.0001%
+1126,Symmetry,Indexes,21810.25,0.0001%
+1127,EXIT10,Yield Aggregator,21766.48,0.0001%
+1128,Kujira Orca,Liquidations,21587.42,0.0001%
+1129,RociFi V1,Lending,21403.76,0.0001%
+1130,DuneSwap,Dexs,21378.34,0.0001%
+1131,Nested,Indexes,21298.70,0.0001%
+1132,SmartCredit,Lending,21106.62,0.0001%
+1133,JOJO,Derivatives,21006.32,0.0001%
+1134,Saros AMM,Dexs,20920.65,0.0001%
+1135,CGO Finance,Yield Aggregator,20877.39,0.0001%
+1136,Opyn Convexity,Options,20813.19,0.0001%
+1137,Forteswap,Dexs,20802.68,0.0001%
+1138,Tempest Finance,Liquidity Manager,20697.26,0.0001%
+1139,Tea-REX,Derivatives,20624.16,0.0001%
+1140,Duet Protocol,Synthetics,20603.55,0.0001%
+1141,HyperLend Isolated,Lending,20378.72,0.0001%
+1142,100XSOON,Derivatives,20369.56,0.0001%
+1143,ValueDefi,Dexs,20333.20,0.0001%
+1144,Opyn Gamma,Options,20070.86,0.0001%
+1145,Sumer.money,Lending,19903.14,0.0001%
+1146,Avalon Finance,Lending,19883.54,0.0001%
+1147,Puffer Vaults,Onchain Capital Allocator,19840.95,0.0001%
+1148,Dopple Finance,Algo-Stables,19660.23,0.0001%
+1149,GemSwap,Dexs,19450.32,0.0000%
+1150,WAGMI,Dexs,19372.01,0.0000%
+1151,Hundred Finance,Lending,19245.93,0.0000%
+1152,Chronos V1,Dexs,19216.80,0.0000%
+1153,eZKalibur,Dexs,19199.03,0.0000%
+1154,Snowball,Yield,19178.47,0.0000%
+1155,Joe V2.1,Dexs,19137.74,0.0000%
+1156,Brahma Vaults (Sunset),Yield,19015.87,0.0000%
+1157,JEXchangeDefi,Dexs,18946.70,0.0000%
+1158,Coslend,Lending,18886.73,0.0000%
+1159,Zebra V2,Dexs,18476.55,0.0000%
+1160,Basilisk,Lending,18427.53,0.0000%
+1161,SpaceFi Scroll,Dexs,18426.72,0.0000%
+1162,Zentra Finance,Lending,18415.95,0.0000%
+1163,Cozy V1,Insurance,18189.15,0.0000%
+1164,Ferra CLMM,Dexs,18036.83,0.0000%
+1165,ShimmerBridge,Bridge,17966.05,0.0000%
+1166,Zyberswap V3,Dexs,17851.21,0.0000%
+1167,RCPswap,Dexs,17807.67,0.0000%
+1168,DFX V3,Dexs,17797.33,0.0000%
+1169,Alephium Bridge,Bridge,17706.32,0.0000%
+1170,Redstone,Canonical Bridge,17517.12,0.0000%
+1171,Alpaca Leveraged Yield Farming,Leveraged Farming,17495.96,0.0000%
+1172,SoneFi AMM,Dexs,17493.37,0.0000%
+1173,Treble Spot,Dexs,17477.39,0.0000%
+1174,MachineX CL,Dexs,17467.74,0.0000%
+1175,Hyphen,Bridge,17404.52,0.0000%
+1176,Pendle,Yield,17373.58,0.0000%
+1177,Haiko,Dexs,17294.58,0.0000%
+1178,Swaap Maker V1,Dexs,17219.84,0.0000%
+1179,BaseX,Dexs,17025.96,0.0000%
+1180,Mover,Yield,17009.61,0.0000%
+1181,Firebird,DEX Aggregator,16966.05,0.0000%
+1182,Predy V2,Derivatives,16957.88,0.0000%
+1183,Spin Spot,Dexs,16942.21,0.0000%
+1184,Kalax,Yield Aggregator,16901.87,0.0000%
+1185,Ritsu Protocol,Dexs,16873.63,0.0000%
+1186,EmiSwap,Dexs,16808.32,0.0000%
+1187,GullNetwork AMM,Dexs,16800.47,0.0000%
+1188,KuSwap,Dexs,16768.27,0.0000%
+1189,KIM Exchange V3,Dexs,16633.58,0.0000%
+1190,Solv Basis Trading,Basis Trading,16614.47,0.0000%
+1191,Algofi Swap,Dexs,16610.78,0.0000%
+1192,Magic Eden,NFT Marketplace,16607.17,0.0000%
+1193,Virtus Protocol CL,Dexs,16482.98,0.0000%
+1194,Jet V1,Lending,16433.98,0.0000%
+1195,CHFRY Finance,Lending,16408.54,0.0000%
+1196,StoneDefi,Yield Aggregator,16123.72,0.0000%
+1197,Magician MV,Dexs,16084.20,0.0000%
+1198,SUN.io,Dexs,15958.49,0.0000%
+1199,Lif3 Swap,Dexs,15852.39,0.0000%
+1200,Clober V2,Dexs,15731.07,0.0000%
+1201,Nereus Finance,Lending,15681.28,0.0000%
+1202,Minterest,Lending,15654.86,0.0000%
+1203,Zyberswap AMM,Dexs,15642.26,0.0000%
+1204,Kava Earn,Yield Aggregator,15585.13,0.0000%
+1205,Kava Boost,Farm,15585.13,0.0000%
+1206,LaserSwap,Dexs,15549.82,0.0000%
+1207,Keeta Bridge,Canonical Bridge,15468.61,0.0000%
+1208,Poolshark,Dexs,15464.44,0.0000%
+1209,veSync,Dexs,15461.36,0.0000%
+1210,Verse,Dexs,15456.36,0.0000%
+1211,Joe V2,Dexs,15433.80,0.0000%
+1212,PotatoSwap V3,Dexs,15401.61,0.0000%
+1213,TownSquare,Lending,15353.01,0.0000%
+1214,Forge SX Ovens,Synthetics,15237.97,0.0000%
+1215,UniDex Perp,Derivatives,15084.79,0.0000%
+1216,Crodex,Dexs,14990.29,0.0000%
+1217,Clip Finance,Liquidity Manager,14953.52,0.0000%
+1218,MM Finance Polygon,Dexs,14904.88,0.0000%
+1219,Arkham Exchange,CEX,14883.73,0.0000%
+1220,SheepDex,Dexs,14799.11,0.0000%
+1221,PolygonFarm Finance,Yield,14798.30,0.0000%
+1222,Smilee Finance Arbitrum,Options,14758.48,0.0000%
+1223,Swop,Dexs,14690.48,0.0000%
+1224,Warp Protocol,Lending,14640.91,0.0000%
+1225,QIE Bridge,Bridge,14634.18,0.0000%
+1226,Canto Dex,Dexs,14574.09,0.0000%
+1227,Level Perps,Derivatives,14511.14,0.0000%
+1228,SiO2 Finance,Lending,14449.89,0.0000%
+1229,Sonex,Dexs,14445.82,0.0000%
+1230,Pepu V3,Dexs,14283.39,0.0000%
+1231,Teahouse Permissionless,Liquidity Manager,14187.49,0.0000%
+1232,Soon,Chain,14054.47,0.0000%
+1233,Qilin,Dexs,13994.19,0.0000%
+1234,BIM Yield,Yield Aggregator,13908.03,0.0000%
+1235,Magic Land,Yield,13897.89,0.0000%
+1236,Jasper Vault,Options,13861.04,0.0000%
+1237,Adrastea Yield,Yield,13816.54,0.0000%
+1238,Mango Markets V4 Perps,Derivatives,13712.10,0.0000%
+1239,Ramses HL Legacy,Dexs,13553.57,0.0000%
+1240,SwapperChan,Dexs,13502.00,0.0000%
+1241,YieldWolf,Yield,13482.04,0.0000%
+1242,Pegasusdollar,Algo-Stables,13458.76,0.0000%
+1243,Stabl.fi V2,Yield,13439.99,0.0000%
+1244,DuckyDeFi,Dexs,13409.95,0.0000%
+1245,BaseSwap V2,Dexs,13404.65,0.0000%
+1246,SiennaLend,Lending,13394.10,0.0000%
+1247,Primex Finance,Derivatives,13337.59,0.0000%
+1248,Vooi V1,Dexs,13319.50,0.0000%
+1249,MooniSwap,Dexs,13254.13,0.0000%
+1250,MachineX Legacy,Dexs,13235.98,0.0000%
+1251,Yellow,Dexs,13213.30,0.0000%
+1252,EchoDEX V3,Dexs,13168.87,0.0000%
+1253,Increment Protocol,Derivatives,13160.42,0.0000%
+1254,Augury Finance,Yield,13127.27,0.0000%
+1255,Predy V3.2,Derivatives,13082.01,0.0000%
+1256,Puzzle Lend,Lending,13075.93,0.0000%
+1257,ZKSwap,Chain,13065.70,0.0000%
+1258,SMARDEX AMM,Dexs,13054.47,0.0000%
+1259,AlienX,Chain,13045.49,0.0000%
+1260,Yelay V1,Yield Aggregator,12825.41,0.0000%
+1261,Equity,Derivatives,12777.44,0.0000%
+1262,PearZap,Yield,12739.44,0.0000%
+1263,Cykura,Dexs,12580.68,0.0000%
+1264,Diamond Protocol V1,Yield,12419.46,0.0000%
+1265,DAM Finance,CDP,12363.38,0.0000%
+1266,Game7,Chain,12314.98,0.0000%
+1267,KIM Exchange V2,Dexs,12245.06,0.0000%
+1268,Levva,Liquidity Manager,12114.68,0.0000%
+1269,CoinDCX,CEX,12052.46,0.0000%
+1270,Maia CL,Dexs,11906.18,0.0000%
+1271,PieDAO,Indexes,11905.85,0.0000%
+1272,Unblock Equity,RWA Lending,11878.51,0.0000%
+1273,DotOracle,Bridge,11845.47,0.0000%
+1274,SwapMode V2,Dexs,11780.68,0.0000%
+1275,Madness Finance,Dexs,11778.84,0.0000%
+1276,zkDX,Farm,11720.29,0.0000%
+1277,Fringe V1,Lending,11698.87,0.0000%
+1278,WeDeFin,Indexes,11647.72,0.0000%
+1279,BOB Fusion,Farm,11642.85,0.0000%
+1280,Invariant Group,Risk Curators,11619.63,0.0000%
+1281,DegenPrime,Leveraged Farming,11553.88,0.0000%
+1282,FWX DEX,Dexs,11533.90,0.0000%
+1283,PotatoSwap V2,Dexs,11495.46,0.0000%
+1284,Taiga Karura,Synthetics,11472.71,0.0000%
+1285,Kuma Perpetuals DEX,Derivatives,11442.77,0.0000%
+1286,SwapFish,Dexs,11407.14,0.0000%
+1287,Hercules V2,Dexs,11361.77,0.0000%
+1288,Somnex Perp,Derivatives,11347.68,0.0000%
+1289,Molten V4,Dexs,11311.05,0.0000%
+1290,Connext,Bridge,11272.59,0.0000%
+1291,PrimeFi,Lending,11253.68,0.0000%
+1292,Myriad Markets,Prediction Market,11200.29,0.0000%
+1293,ApertureSwap,Dexs,11146.17,0.0000%
+1294,Blueberry,Yield,11100.02,0.0000%
+1295,Pulsar Swap,Dexs,11072.46,0.0000%
+1296,HakuSwap,Dexs,11046.57,0.0000%
+1297,Starmaker,Dexs,10998.66,0.0000%
+1298,H2 Finance V3,Dexs,10970.91,0.0000%
+1299,PWN,Lending,10924.25,0.0000%
+1300,Charm Finance V2,Liquidity Manager,10862.83,0.0000%
+1301,MYSO V2,Lending,10842.06,0.0000%
+1302,DefiChain DEX,Dexs,10836.39,0.0000%
+1303,Universe Finance,Liquidity Manager,10803.69,0.0000%
+1304,Onsen Swap,Dexs,10668.15,0.0000%
+1305,Alchemix V2,Synthetics,10666.29,0.0000%
+1306,Hats.V1,Bug Bounty,10641.59,0.0000%
+1307,Thick,Dexs,10551.78,0.0000%
+1308,Tonic,Dexs,10471.19,0.0000%
+1309,Anvil,Collateral Management,10445.72,0.0000%
+1310,ShrikePerps,Derivatives,10441.01,0.0000%
+1311,Elk,Dexs,10399.68,0.0000%
+1312,Interlay Lending,Lending,10252.59,0.0000%
+1313,Surf Liquid,Yield,10209.58,0.0000%
+1314,Horiza,Dexs,10196.21,0.0000%
+1315,Equalizer Exchange,Dexs,10111.44,0.0000%
+1316,Sudo Perps,Derivatives,10046.76,0.0000%
+1317,Tender Finance,Lending,10007.95,0.0000%
+1318,IguanaDEX V3,Dexs,9966.54,0.0000%
+1319,Lodestar V1,Lending,9946.69,0.0000%
+1320,CREAM Lending,Lending,9860.36,0.0000%
+1321,Router Protocol,Cross Chain Bridge,9833.97,0.0000%
+1322,Mimas Finance,Lending,9821.99,0.0000%
+1323,Sophon Farm,Farm,9811.55,0.0000%
+1324,MonoX,Dexs,9805.38,0.0000%
+1325,SolidLizard Dex,Dexs,9796.26,0.0000%
+1326,Shinjo,Yield Lottery,9790.34,0.0000%
+1327,Spin Perps,Derivatives,9788.78,0.0000%
+1328,Zencha Finance,Dexs,9760.08,0.0000%
+1329,TakoTako,Lending,9757.31,0.0000%
+1330,ZKBase,Dexs,9723.13,0.0000%
+1331,Ocelex V2,Dexs,9527.90,0.0000%
+1332,Polter Finance,Lending,9481.96,0.0000%
+1333,Copra Finance,Lending,9475.75,0.0000%
+1334,Predy V5,Derivatives,9398.54,0.0000%
+1335,FluxBeam,Dexs,9261.63,0.0000%
+1336,Sterling Finance,Dexs,9260.28,0.0000%
+1337,XPress Protocol,Dexs,9245.61,0.0000%
+1338,Wind Swap,Dexs,9225.53,0.0000%
+1339,PadSwap,Dexs,9162.71,0.0000%
+1340,Deli Swap,Dexs,9150.83,0.0000%
+1341,Fringe V2,Lending,9132.36,0.0000%
+1342,AlgoRai Finance,Options Vault,9132.14,0.0000%
+1343,Polywhale Finance,Yield,9058.41,0.0000%
+1344,Sorta Finance,Lending,9009.47,0.0000%
+1345,VivaLeva Protocol,Leveraged Farming,8979.41,0.0000%
+1346,ArcherSwap,Dexs,8956.31,0.0000%
+1347,zkMoonSwap,Dexs,8907.97,0.0000%
+1348,Solunea,Dexs,8880.02,0.0000%
+1349,Hummus Weighted,Yield,8828.56,0.0000%
+1350,NerveBridge,Bridge,8791.96,0.0000%
+1351,EraLend,Lending,8755.58,0.0000%
+1352,Gridex,Dexs,8746.36,0.0000%
+1353,Blue Planet,Dexs,8700.50,0.0000%
+1354,CyborgSwap,Dexs,8689.18,0.0000%
+1355,Altitude,Cross Chain Bridge,8683.78,0.0000%
+1356,Beta Finance V2,Lending,8460.88,0.0000%
+1357,CafeSwap,Dexs,8423.61,0.0000%
+1358,JediSwap V2,Dexs,8412.74,0.0000%
+1359,Kinesis Labs,Dexs,8397.81,0.0000%
+1360,WavesBridge,Bridge,8386.41,0.0000%
+1361,Nile CL,Dexs,8384.99,0.0000%
+1362,THENA V1,Dexs,8379.03,0.0000%
+1363,Velvet V2,Indexes,8378.56,0.0000%
+1364,Shoebill V2,Lending,8377.34,0.0000%
+1365,Jet Margin,Lending,8310.86,0.0000%
+1366,Scallop Pool,Yield,8307.47,0.0000%
+1367,Penguin Finance,Yield,8239.95,0.0000%
+1368,Torches,Lending,8213.45,0.0000%
+1369,Catex,Dexs,8185.40,0.0000%
+1370,Sweep,RWA,8158.33,0.0000%
+1371,ParaSpace Lending V1,Lending,8144.20,0.0000%
+1372,VulcanDex,Dexs,8143.25,0.0000%
+1373,ApeRocket,Yield,7970.33,0.0000%
+1374,Aelin,Charity Fundraising,7938.17,0.0000%
+1375,GaloSwap,Dexs,7907.41,0.0000%
+1376,K613,Lending,7905.70,0.0000%
+1377,Morpho Optimizer AaveV3,Lending,7892.20,0.0000%
+1378,Elix.fi,Dexs,7885.77,0.0000%
+1379,Xpert,Lending,7852.48,0.0000%
+1380,Jellyverse,Dexs,7848.82,0.0000%
+1381,Kogefarm,Yield,7828.82,0.0000%
+1382,ClaimSwap V2,Dexs,7825.54,0.0000%
+1383,SunX Bridge,Bridge,7813.23,0.0000%
+1384,Elektrik,Dexs,7799.70,0.0000%
+1385,Diffusion Finance,Dexs,7773.60,0.0000%
+1386,Earnium,Dexs,7750.53,0.0000%
+1387,Croblanc,Yield,7748.74,0.0000%
+1388,Fraxlend,Lending,7739.35,0.0000%
+1389,Thoreum Finance,Yield,7701.25,0.0000%
+1390,Segment Finance,Lending,7697.78,0.0000%
+1391,Proteo Defi,Farm,7585.37,0.0000%
+1392,Tanken Capital,Risk Curators,7562.80,0.0000%
+1393,Vicuna Lending,Lending,7454.95,0.0000%
+1394,Terraswap,Dexs,7433.39,0.0000%
+1395,MetaLend,Lending,7416.97,0.0000%
+1396,ChainGPT,Launchpad,7404.99,0.0000%
+1397,Lemma,Derivatives,7371.54,0.0000%
+1398,Unagii,Yield,7369.10,0.0000%
+1399,Symmetry Trade,Derivatives,7366.78,0.0000%
+1400,iZUMi LiquidBox,Yield,7287.44,0.0000%
+1401,BakerySwap,Dexs,7249.24,0.0000%
+1402,ManXSwap,Dexs,7200.19,0.0000%
+1403,Cone,Dexs,7187.53,0.0000%
+1404,Impossible Finance,Launchpad,7184.29,0.0000%
+1405,Elara,Lending,7179.11,0.0000%
+1406,Goku Money,CDP,7156.00,0.0000%
+1407,Dusa Protocol,Dexs,7153.98,0.0000%
+1408,Mushrooms Finance,Yield Aggregator,7137.96,0.0000%
+1409,Composable Finance,Cross Chain Bridge,7068.17,0.0000%
+1410,FreeRiver,Dexs,7053.22,0.0000%
+1411,Bunny,Yield,7002.89,0.0000%
+1412,B.Protocol,Liquidations,6941.93,0.0000%
+1413,Inertia Bridge,Canonical Bridge,6929.38,0.0000%
+1414,RamsesX Arbitrum CL,Dexs,6896.00,0.0000%
+1415,Spice Trade,Algo-Stables,6875.48,0.0000%
+1416,Balancer CoW AMM,Dexs,6850.82,0.0000%
+1417,HorizonDEX,Dexs,6837.69,0.0000%
+1418,Aptoswap,Dexs,6805.71,0.0000%
+1419,Agave,Lending,6781.14,0.0000%
+1420,TiTi Protocol,Algo-Stables,6758.81,0.0000%
+1421,Zuit Swap,Dexs,6691.11,0.0000%
+1422,CobaltX,Dexs,6681.37,0.0000%
+1423,Standard Protocol Shiden,Dexs,6679.17,0.0000%
+1424,OreoSwap,Dexs,6670.33,0.0000%
+1425,V12,Dexs,6662.24,0.0000%
+1426,RociFi V2,Lending,6633.43,0.0000%
+1427,Coupon Finance,Lending,6554.98,0.0000%
+1428,Bella Protocol,Yield,6542.54,0.0000%
+1429,Juiceswap,Dexs,6523.85,0.0000%
+1430,EnterDAO,Gaming,6499.92,0.0000%
+1431,Arrakis V2,Liquidity Manager,6446.59,0.0000%
+1432,ArbiSwap,Dexs,6444.37,0.0000%
+1433,Beets DEX V3,Dexs,6432.14,0.0000%
+1434,Logium,Derivatives,6382.71,0.0000%
+1435,Flux Exchange,Derivatives,6365.71,0.0000%
+1436,Ryze.Fi,Derivatives,6353.84,0.0000%
+1437,BooFinance,Yield,6335.55,0.0000%
+1438,Salem Finance,Yield,6292.13,0.0000%
+1439,Tesseract,Yield,6235.22,0.0000%
+1440,9mm V2,Dexs,6223.20,0.0000%
+1441,Parallax,Yield Aggregator,6221.06,0.0000%
+1442,Kagla Finance,Dexs,6208.48,0.0000%
+1443,LuigiSwap,Dexs,6207.22,0.0000%
+1444,Crystl Finance,Yield,6190.65,0.0000%
+1445,UniVoucher,Payments,6180.58,0.0000%
+1446,Anzen V1,RWA,6152.27,0.0000%
+1447,Basin Exchange,Dexs,6115.24,0.0000%
+1448,UntitledBank,Lending,6113.05,0.0000%
+1449,Numoen,Derivatives,6104.38,0.0000%
+1450,Surf Protocol,Derivatives,5998.89,0.0000%
+1451,Ramses Legacy,Dexs,5977.10,0.0000%
+1452,Ubeswap V3,Dexs,5972.33,0.0000%
+1453,Mummy Finance,Derivatives,5898.75,0.0000%
+1454,Voltage StableSwap,Dexs,5853.89,0.0000%
+1455,ShibaNova,Dexs,5833.25,0.0000%
+1456,Dojoswap AMM,Dexs,5798.48,0.0000%
+1457,DX25,Dexs,5775.66,0.0000%
+1458,Gasp,Cross Chain Bridge,5769.92,0.0000%
+1459,Jetstream,Derivatives,5744.27,0.0000%
+1460,Xena Finance,Derivatives,5730.86,0.0000%
+1461,9inch V3,Dexs,5724.95,0.0000%
+1462,Wswap Bridge,Bridge,5683.81,0.0000%
+1463,Amulet V2,Yield Aggregator,5682.31,0.0000%
+1464,PolyShield,Yield,5673.23,0.0000%
+1465,Aladdin DAO,Yield Aggregator,5671.80,0.0000%
+1466,Xfai,Dexs,5671.70,0.0000%
+1467,PacificSwap V3,Dexs,5669.51,0.0000%
+1468,ZipSwap,Dexs,5653.37,0.0000%
+1469,Popsicle Finance,Liquidity Manager,5544.69,0.0000%
+1470,Blend Pools,Lending,5544.67,0.0000%
+1471,VII Finance,Leveraged Farming,5523.08,0.0000%
+1472,CrossCurve,Cross Chain Bridge,5513.73,0.0000%
+1473,SugarSwap,Dexs,5467.97,0.0000%
+1474,FeeFree,Dexs,5463.79,0.0000%
+1475,ArbiRise Finance,Yield,5421.28,0.0000%
+1476,Zeno Exchange,Derivatives,5413.19,0.0000%
+1477,Parcl V2,Synthetics,5358.24,0.0000%
+1478,MyTrade,Dexs,5324.35,0.0000%
+1479,Cometh,Dexs,5315.15,0.0000%
+1480,Nuri CL,Dexs,5315.13,0.0000%
+1481,Flashstake,Yield,5274.88,0.0000%
+1482,Argo,CDP,5245.63,0.0000%
+1483,YuzuSwap,Dexs,5226.07,0.0000%
+1484,Sentre,Dexs,5173.57,0.0000%
+1485,DerpDEX,Dexs,5149.00,0.0000%
+1486,HeliSwap,Dexs,5137.92,0.0000%
+1487,Axial,Dexs,5117.96,0.0000%
+1488,PolyDEX-Cryption Network,Dexs,5108.99,0.0000%
+1489,OpenSky Finance,NFT Lending,5056.70,0.0000%
+1490,Savvy,CDP,5029.10,0.0000%
+1491,SoliDex Finance V3,Dexs,5023.68,0.0000%
+1492,Free Protocol,Bridge,5021.53,0.0000%
+1493,AuroraSwap,Dexs,5013.40,0.0000%
+1494,Primitive,Dexs,5003.81,0.0000%
+1495,SwapBased AMM,Dexs,4955.46,0.0000%
+1496,Fluxtra,Liquid Staking,4933.09,0.0000%
+1497,KwikSwap,Dexs,4932.36,0.0000%
+1498,Weiss Finance,CDP,4853.44,0.0000%
+1499,OpenLeverage,Dexs,4849.73,0.0000%
+1500,MM Finance Arbitrum V3,Dexs,4782.61,0.0000%
+1501,HeLa Bridge,Bridge,4770.25,0.0000%
+1502,Sonus Exchange AMM,Dexs,4754.10,0.0000%
+1503,VeryLongSwap AMM,Dexs,4751.39,0.0000%
+1504,Obsidian,DEX Aggregator,4743.24,0.0000%
+1505,FinNexus,Options,4707.93,0.0000%
+1506,Spectrum Protocol,Yield,4706.32,0.0000%
+1507,CougarSwap,Yield,4694.67,0.0000%
+1508,ProtossDex,Dexs,4652.50,0.0000%
+1509,Tokenlon AMM,Dexs,4620.25,0.0000%
+1510,MerlinSwap,Dexs,4532.51,0.0000%
+1511,Diamond Protocol V2,Liquidity Manager,4505.17,0.0000%
+1512,Banksy Farm,Yield,4487.64,0.0000%
+1513,Interport Finance,Cross Chain Bridge,4482.11,0.0000%
+1514,Nearpad,Dexs,4468.71,0.0000%
+1515,Ultrasolid V3,Dexs,4465.38,0.0000%
+1516,Bean Exchange,Dexs,4463.66,0.0000%
+1517,GoSwap,Dexs,4450.85,0.0000%
+1518,Metavault V3,Dexs,4436.97,0.0000%
+1519,Panko Finance,Dexs,4433.72,0.0000%
+1520,Dystopia,Dexs,4431.98,0.0000%
+1521,SupSwap V3,Dexs,4381.21,0.0000%
+1522,Butter.xyz,Dexs,4341.08,0.0000%
+1523,Gardens,Governance Incentives,4264.39,0.0000%
+1524,Yel Finance,Yield,4259.88,0.0000%
+1525,Rollie Finance,Derivatives,4257.76,0.0000%
+1526,Drachma,Dexs,4254.60,0.0000%
+1527,SmartDEX,Dexs,4233.81,0.0000%
+1528,Alkimiya,Derivatives,4213.67,0.0000%
+1529,Blaze Swap,Dexs,4190.51,0.0000%
+1530,Tokeniza,RWA,4180.38,0.0000%
+1531,Ulysses,Bridge,4170.31,0.0000%
+1532,Alkemi,Lending,4157.50,0.0000%
+1533,YieldFlow Yield Farming,Liquidity Manager,4138.88,0.0000%
+1534,Ooki,Lending,4132.52,0.0000%
+1535,DinoSwap,Dexs,4127.71,0.0000%
+1536,ElasticSwap,Dexs,4093.02,0.0000%
+1537,Somnex V3,Dexs,4084.27,0.0000%
+1538,VanillaSwap V2,Dexs,4059.50,0.0000%
+1539,Alien Base V2,Dexs,4043.54,0.0000%
+1540,Dyson,Liquidity Manager,3982.29,0.0000%
+1541,Neony Exchange Bridge,Bridge,3972.27,0.0000%
+1542,BetterLend,Lending,3964.41,0.0000%
+1543,DeeppDAO,Prediction Market,3952.55,0.0000%
+1544,Koi Finance CL,Dexs,3933.27,0.0000%
+1545,Dracula Finance,Dexs,3917.38,0.0000%
+1546,Hedgey,Payments,3875.30,0.0000%
+1547,HoustonSwap,Dexs,3871.63,0.0000%
+1548,CherrySwap,Dexs,3842.22,0.0000%
+1549,MetalSwap,Derivatives,3826.93,0.0000%
+1550,MCDEX,Dexs,3809.04,0.0000%
+1551,BaySwap,Dexs,3800.31,0.0000%
+1552,Whiteheart,Options,3755.50,0.0000%
+1553,Nomad,Bridge,3719.98,0.0000%
+1554,Ram Protocol,Lending,3697.43,0.0000%
+1555,SpookySwap V3,Dexs,3684.48,0.0000%
+1556,Cyber,Chain,3684.12,0.0000%
+1557,Quadrat,Liquidity Manager,3677.55,0.0000%
+1558,Morpho Optimizer CompoundV2,Lending,3657.27,0.0000%
+1559,Cap Finance V4,Derivatives,3632.21,0.0000%
+1560,Lore Finance,Lending,3624.93,0.0000%
+1561,WOWswap,Dexs,3562.34,0.0000%
+1562,Huckleberry Lending,Lending,3544.38,0.0000%
+1563,TrueFi,Uncollateralized Lending,3528.32,0.0000%
+1564,Oxium,Dexs,3495.11,0.0000%
+1565,Momodrome,Dexs,3492.22,0.0000%
+1566,INERTIA,Lending,3487.64,0.0000%
+1567,Bow,Yield,3483.27,0.0000%
+1568,Skate Fi,Liquidity Manager,3465.86,0.0000%
+1569,OkieSwap Stableswap,Dexs,3460.52,0.0000%
+1570,Alligator,Dexs,3460.33,0.0000%
+1571,Lydia,Dexs,3459.27,0.0000%
+1572,Pulse Rate,Algo-Stables,3425.31,0.0000%
+1573,LendeXe Finance,Lending,3419.51,0.0000%
+1574,BAO Swap,Dexs,3383.74,0.0000%
+1575,Kim Vaults,Yield,3377.65,0.0000%
+1576,Arcadia V1,Leveraged Farming,3331.63,0.0000%
+1577,Velvet V3,Yield,3326.32,0.0000%
+1578,Kriya AMM,Dexs,3276.48,0.0000%
+1579,Parrot Defi,Farm,3225.08,0.0000%
+1580,Neutra Finance,Yield,3216.23,0.0000%
+1581,AnimeSwap,Dexs,3211.16,0.0000%
+1582,Swarm Markets,Dexs,3191.60,0.0000%
+1583,AUX Exchange,Dexs,3183.54,0.0000%
+1584,MANTRA Swap,Dexs,3169.28,0.0000%
+1585,Domani Protocol,Indexes,3154.10,0.0000%
+1586,Wompie,Yield,3149.86,0.0000%
+1587,Penrose,Yield,3147.28,0.0000%
+1588,Metavisor,Liquidity Manager,3117.27,0.0000%
+1589,Echo Lending,Lending,3115.88,0.0000%
+1590,GoblinGold,Yield,3115.18,0.0000%
+1591,LatteSwap,Dexs,3108.29,0.0000%
+1592,SwapBased Concentrated Liquidity,Dexs,3091.46,0.0000%
+1593,Sui Pearl,Yield Aggregator,3089.48,0.0000%
+1594,BambooDeFi,Dexs,3088.91,0.0000%
+1595,Gambit Trade,Derivatives,3082.65,0.0000%
+1596,Nightshade Finance,Dexs,3070.92,0.0000%
+1597,Quickswap Dex,Dexs,3066.16,0.0000%
+1598,Jackson Protocol,Prediction Market,3048.05,0.0000%
+1599,Cronus Finance,Dexs,3041.36,0.0000%
+1600,DefiPlaza,Dexs,3040.79,0.0000%
+1601,Octus Bridge,Bridge,3024.93,0.0000%
+1602,Retro,Dexs,3021.62,0.0000%
+1603,Solidly V2,Dexs,3021.39,0.0000%
+1604,GoldLink,Leveraged Farming,3015.94,0.0000%
+1605,BulbaSwap V2,Dexs,3005.88,0.0000%
+1606,Tokan Exchange,Dexs,2998.77,0.0000%
+1607,Mycelium Perpetual Swaps,Derivatives,2996.23,0.0000%
+1608,Somnex DEX,Dexs,2965.67,0.0000%
+1609,Frax,Algo-Stables,2932.17,0.0000%
+1610,Mercurity,Dexs,2925.11,0.0000%
+1611,FVM Exchange,Dexs,2896.99,0.0000%
+1612,Guale,Yield Aggregator,2890.74,0.0000%
+1613,Vaultka,Yield,2883.92,0.0000%
+1614,PredX Ai,Prediction Market,2867.52,0.0000%
+1615,Enjoyoors,CDP,2855.45,0.0000%
+1616,Mitosis,Onchain Capital Allocator,2844.96,0.0000%
+1617,Oh Finance,Yield,2840.29,0.0000%
+1618,Singularity Finance,Yield,2826.81,0.0000%
+1619,Swipe,Dexs,2797.66,0.0000%
+1620,Singular Farm,Yield,2795.58,0.0000%
+1621,Astar Exchange V2,Dexs,2783.54,0.0000%
+1622,Greenhouse,Dexs,2782.57,0.0000%
+1623,Phoenix DEX,Dexs,2736.66,0.0000%
+1624,Sense,Yield,2728.34,0.0000%
+1625,Component,Dexs,2727.31,0.0000%
+1626,MIND Games,Dexs,2704.62,0.0000%
+1627,Clober V1,Dexs,2685.69,0.0000%
+1628,Onchain Trade,Derivatives,2660.56,0.0000%
+1629,StableBase,Dexs,2656.28,0.0000%
+1630,Varen,Dexs,2654.83,0.0000%
+1631,Tulip Protocol,Yield,2629.31,0.0000%
+1632,CrowdSwap,Dexs,2627.36,0.0000%
+1633,ZigZag,Dexs,2626.57,0.0000%
+1634,dexVAULTS,Yield,2615.44,0.0000%
+1635,Swapsicle V2,Dexs,2607.32,0.0000%
+1636,Alpaca Perpetual Futures Exchange,Derivatives,2602.45,0.0000%
+1637,Sperax Demeter V2,Farm,2596.94,0.0000%
+1638,Annex,Lending,2595.15,0.0000%
+1639,MM Stableswap Polygon,Dexs,2583.76,0.0000%
+1640,Alvara,Yield Aggregator,2565.08,0.0000%
+1641,Loop,Leveraged Farming,2542.29,0.0000%
+1642,Ouroboros Capital,Risk Curators,2538.11,0.0000%
+1643,PunkSwap,Dexs,2533.82,0.0000%
+1644,Sharwa.Finance,Derivatives,2520.01,0.0000%
+1645,ThorusFi,Dexs,2516.10,0.0000%
+1646,Leech Protocol,Yield Aggregator,2512.51,0.0000%
+1647,Sailor,Dexs,2500.53,0.0000%
+1648,Predy V3,Derivatives,2461.99,0.0000%
+1649,MorFi,Dexs,2444.77,0.0000%
+1650,Blueprint,Dexs,2414.27,0.0000%
+1651,KokomoSwap,Dexs,2410.19,0.0000%
+1652,Inverse Finance Frontier,CDP,2406.50,0.0000%
+1653,Persistence DEX,Dexs,2396.31,0.0000%
+1654,SumSwap,Dexs,2389.51,0.0000%
+1655,Yaka V2,Dexs,2388.63,0.0000%
+1656,zk-Swap,Dexs,2365.11,0.0000%
+1657,TEN Finance,Yield,2355.63,0.0000%
+1658,SoulBound Finance,Payments,2349.90,0.0000%
+1659,PolkaEx,Dexs,2345.26,0.0000%
+1660,Cadabra Finance,Yield Aggregator,2342.78,0.0000%
+1661,BaptSwap V2.1,Dexs,2340.99,0.0000%
+1662,SeedFi Perp,Derivatives,2340.38,0.0000%
+1663,Amphor,Yield,2336.13,0.0000%
+1664,Green Planet,Lending,2323.94,0.0000%
+1665,EigenCloud,Restaking,2321.49,0.0000%
+1666,Solid Yield,Yield,2297.61,0.0000%
+1667,Governor DAO,Yield,2262.67,0.0000%
+1668,Abstract,Chain,2248.48,0.0000%
+1669,DackieSwap V3,Dexs,2233.10,0.0000%
+1670,Panoptic V1,Options,2218.92,0.0000%
+1671,Athena Finance,Yield,2218.58,0.0000%
+1672,KibbleSwap,Dexs,2193.04,0.0000%
+1673,Ciento Exchange,Dexs,2191.22,0.0000%
+1674,Satori Spots,Dexs,2180.64,0.0000%
+1675,Gravis Finance,Dexs,2156.29,0.0000%
+1676,YFX V4,Derivatives,2147.58,0.0000%
+1677,Yapeswap,Dexs,2140.63,0.0000%
+1678,Pell Network,Restaking,2140.28,0.0000%
+1679,Swapsicle V1,Dexs,2139.39,0.0000%
+1680,VirtuSwap,Dexs,2136.91,0.0000%
+1681,SandClock,Yield,2133.08,0.0000%
+1682,Unit Protocol,CDP,2129.61,0.0000%
+1683,Pearl V1,Dexs,2118.82,0.0000%
+1684,Lodestar V0,Lending,2115.30,0.0000%
+1685,Avalon USDaLend,Lending,2113.99,0.0000%
+1686,VultureSwap,Dexs,2112.87,0.0000%
+1687,Huckleberry AMM,Dexs,2111.67,0.0000%
+1688,TropicalSwap,Dexs,2093.51,0.0000%
+1689,SwapX V2,Dexs,2086.62,0.0000%
+1690,DESK CLOB,Interface,2077.13,0.0000%
+1691,JewelSwap Leveraged Farming,Leveraged Farming,2068.71,0.0000%
+1692,Superlend,Lending,2028.85,0.0000%
+1693,CitadelSwap,Dexs,2023.13,0.0000%
+1694,Parallel Protocol V2,CDP,1999.65,0.0000%
+1695,xDollar,CDP,1999.59,0.0000%
+1696,Polydex,Dexs,1989.55,0.0000%
+1697,Embr Finance,Dexs,1980.90,0.0000%
+1698,Hana Finance,Lending,1978.54,0.0000%
+1699,Sharky Swap,Dexs,1976.81,0.0000%
+1700,MagicFox Vaults,Yield,1965.27,0.0000%
+1701,Arcade.xyz,NFT Lending,1945.08,0.0000%
+1702,CALC,DCA Tools,1931.13,0.0000%
+1703,LazyOtter Finance,Yield Aggregator,1912.20,0.0000%
+1704,Solarflare,Dexs,1902.39,0.0000%
+1705,Citrex Markets,Derivatives,1897.99,0.0000%
+1706,Capybara Dexs,Dexs,1892.50,0.0000%
+1707,HyperBloom,DEX Aggregator,1877.00,0.0000%
+1708,Darkness,Dexs,1870.10,0.0000%
+1709,Eternal Finance,Yield,1854.87,0.0000%
+1710,Limitless,Derivatives,1849.01,0.0000%
+1711,Silent Protocol,Privacy,1843.49,0.0000%
+1712,AutoShark,Dexs,1833.18,0.0000%
+1713,Platypus Finance,Dexs,1830.86,0.0000%
+1714,Rooster Protocol V1,Dexs,1822.19,0.0000%
+1715,Mars Perps,Derivatives,1807.88,0.0000%
+1716,Elexium,Dexs,1781.51,0.0000%
+1717,Nile Legacy,Dexs,1779.48,0.0000%
+1718,Bao Masterchef V1,Farm,1761.33,0.0000%
+1719,Elys DEX,Dexs,1750.08,0.0000%
+1720,Jupiter Prediction,Interface,1749.53,0.0000%
+1721,Sonne Finance,Lending,1749.52,0.0000%
+1722,EagleFi,Dexs,1744.38,0.0000%
+1723,Sturdy V2,Lending,1734.45,0.0000%
+1724,E3,Dexs,1713.58,0.0000%
+1725,DDEX,Dexs,1711.20,0.0000%
+1726,Grace,Lending,1701.72,0.0000%
+1727,GIBXSwap,Dexs,1692.12,0.0000%
+1728,Glyph V2,Dexs,1665.72,0.0000%
+1729,Aquarius Loan,Lending,1665.50,0.0000%
+1730,VaultCraft,Yield,1659.00,0.0000%
+1731,Gaj Finance,Yield,1657.05,0.0000%
+1732,TrustSwap,Token Locker,1648.39,0.0000%
+1733,Conic Finance,Yield,1627.07,0.0000%
+1734,BoringDAO,Cross Chain Bridge,1616.96,0.0000%
+1735,Intercroneswap,Dexs,1612.85,0.0000%
+1736,Spin DOV,Options Vault,1611.52,0.0000%
+1737,Ceto Swap,Dexs,1609.50,0.0000%
+1738,Joule Finance,Lending,1605.75,0.0000%
+1739,TsunamiX,Derivatives,1603.95,0.0000%
+1740,GammaSwap Classic,Derivatives,1602.34,0.0000%
+1741,Scion Finance,Yield Aggregator,1596.60,0.0000%
+1742,Moonbase Alpha,Dexs,1591.65,0.0000%
+1743,Paintswap on Sonic,NFT Marketplace,1590.04,0.0000%
+1744,TCV Platform,Liquidity Manager,1588.24,0.0000%
+1745,Lander,Lending,1574.46,0.0000%
+1746,Unlockd V2,Lending,1565.99,0.0000%
+1747,Cycle Finance,Yield Aggregator,1551.05,0.0000%
+1748,Astaria V2,Lending,1539.23,0.0000%
+1749,White Whale Dex,Dexs,1529.75,0.0000%
+1750,Auragi Finance,Dexs,1522.42,0.0000%
+1751,Guard-Helmet,Insurance,1507.84,0.0000%
+1752,ENIBridge,Canonical Bridge,1503.77,0.0000%
+1753,PandaSwap,Dexs,1499.98,0.0000%
+1754,SWAPP,Dexs,1472.89,0.0000%
+1755,Switcheo Finance,Dexs,1466.93,0.0000%
+1756,Dinosaur Eggs,Dexs,1466.70,0.0000%
+1757,BencuFi,Lending,1461.98,0.0000%
+1758,Midas Capital,Lending,1454.43,0.0000%
+1759,Avault,Yield Aggregator,1452.36,0.0000%
+1760,SolidLizard Lending,Lending,1447.93,0.0000%
+1761,Secta Finance V3,Dexs,1447.41,0.0000%
+1762,Arbitrum Exchange V2,Dexs,1443.39,0.0000%
+1763,Kriya Strats,Yield,1439.16,0.0000%
+1764,BeamSwap Classic,Dexs,1432.17,0.0000%
+1765,Ruby.Exchange Stable,Dexs,1423.41,0.0000%
+1766,Mint Club V2,Launchpad,1416.16,0.0000%
+1767,LiquiX,Liquidity Manager,1411.21,0.0000%
+1768,Votre,Lending,1400.78,0.0000%
+1769,Auctus,Options,1400.22,0.0000%
+1770,Forge SX Trade,Dexs,1399.21,0.0000%
+1771,Megalon,Dexs,1388.30,0.0000%
+1772,AYIN,Dexs,1388.03,0.0000%
+1773,Cleopatra Legacy,Dexs,1381.90,0.0000%
+1774,Daytona Finance,Dexs,1378.93,0.0000%
+1775,VMEX Finance,Lending,1372.98,0.0000%
+1776,Chainflip Lending,Lending,1365.62,0.0000%
+1777,zkEVMSwap,Dexs,1361.80,0.0000%
+1778,TProtocol V1,RWA,1354.79,0.0000%
+1779,Akronswap,Dexs,1348.72,0.0000%
+1780,Swaap Earn,Yield,1347.50,0.0000%
+1781,Secta Finance V2,Dexs,1343.89,0.0000%
+1782,Bored Candy City,Dexs,1337.37,0.0000%
+1783,Scribe V4,Dexs,1333.71,0.0000%
+1784,Kokonut Swap,Dexs,1320.62,0.0000%
+1785,Zircuit Staking,Farm,1311.25,0.0000%
+1786,SpaceFi Evmos,Dexs,1308.59,0.0000%
+1787,PeerMe,Services,1307.59,0.0000%
+1788,Ajira Pay Finance V2,Payments,1306.88,0.0000%
+1789,Interest Protocol,CDP,1288.07,0.0000%
+1790,PredPred,Prediction Market,1276.79,0.0000%
+1791,Lizard,Dexs,1276.49,0.0000%
+1792,MachFi,Lending,1268.07,0.0000%
+1793,DexFinance ETF,Yield,1265.85,0.0000%
+1794,3xcalibur,Dexs,1263.70,0.0000%
+1795,zkFinance,Lending,1261.58,0.0000%
+1796,SteakHut Liquidity,Liquidity Manager,1259.69,0.0000%
+1797,DarkCrypto,Algo-Stables,1237.03,0.0000%
+1798,Hermes V2,Yield,1234.21,0.0000%
+1799,Goblins AMM,Dexs,1233.65,0.0000%
+1800,DarkAuto,Yield Aggregator,1232.11,0.0000%
+1801,Roketo,Payments,1228.70,0.0000%
+1802,DBX Finance,Dexs,1224.59,0.0000%
+1803,Zebra V1,Dexs,1224.32,0.0000%
+1804,Polaris Finance,Dexs,1223.73,0.0000%
+1805,LogX V1,Derivatives,1205.87,0.0000%
+1806,Veplus,Dexs,1197.61,0.0000%
+1807,OctoSwap CL,Dexs,1186.28,0.0000%
+1808,Shibance,Dexs,1184.96,0.0000%
+1809,OraiDEX Pool V3,Dexs,1178.20,0.0000%
+1810,Omni Exchange V3,Dexs,1159.43,0.0000%
+1811,CantoSwap,Dexs,1156.93,0.0000%
+1812,Kodo Exchange,Dexs,1151.69,0.0000%
+1813,XUSD Money,Algo-Stables,1147.50,0.0000%
+1814,RobiniaSwap,Dexs,1141.51,0.0000%
+1815,HurricaneSwap,Dexs,1141.41,0.0000%
+1816,Parity DEX CL,Dexs,1140.25,0.0000%
+1817,Renec Lend,Lending,1130.43,0.0000%
+1818,Ruscet,Derivatives,1115.43,0.0000%
+1819,Hemi,Canonical Bridge,1110.80,0.0000%
+1820,MM Stableswap,Dexs,1104.16,0.0000%
+1821,World Chain,Canonical Bridge,1096.92,0.0000%
+1822,Pit Finance,Yield Aggregator,1094.53,0.0000%
+1823,FunBeast,Dexs,1090.43,0.0000%
+1824,Shroomy Protocol Lending,Lending,1087.79,0.0000%
+1825,Moret,Options Vault,1078.77,0.0000%
+1826,HiveSwap V2,Dexs,1072.64,0.0000%
+1827,Geyser,Yield,1070.41,0.0000%
+1828,Cronofi Finance,Yield,1070.33,0.0000%
+1829,Coinscope,Token Locker,1063.49,0.0000%
+1830,Quarry,Yield,1060.73,0.0000%
+1831,RSK Bridge,Canonical Bridge,1060.30,0.0000%
+1832,Versa Finance,Dexs,1057.13,0.0000%
+1833,Alto,CDP,1050.72,0.0000%
+1834,SeedFi AMM,Dexs,1047.39,0.0000%
+1835,Lendle Pooled Markets,Lending,1046.43,0.0000%
+1836,Illuminate,Lending,1046.01,0.0000%
+1837,Sushi Furo,Payments,1035.65,0.0000%
+1838,Trava Finance,Lending,1030.67,0.0000%
+1839,MM Finance Arbitrum,Dexs,1026.08,0.0000%
+1840,IcecreamSwap V2,Dexs,1022.08,0.0000%
+1841,EmpireDEX,Dexs,1012.85,0.0000%
+1842,1Swap,Dexs,1008.72,0.0000%
+1843,A51 Finance V3,Liquidity Manager,995.75,0.0000%
+1844,Margined Protocol,Derivatives,991.84,0.0000%
+1845,StellaSwap V3,Dexs,986.03,0.0000%
+1846,CreamSwap,Dexs,984.69,0.0000%
+1847,Convergence,Dexs,981.99,0.0000%
+1848,Bunni v1,Liquidity Manager,979.52,0.0000%
+1849,Goose Finance,Farm,957.56,0.0000%
+1850,SakePerp,Dexs,956.85,0.0000%
+1851,ASPE Labs,Yield,951.10,0.0000%
+1852,Meridian Lend,Lending,949.11,0.0000%
+1853,Pinot V3,Dexs,947.72,0.0000%
+1854,BetMode,Luck Games,945.14,0.0000%
+1855,Eris Protocol,Liquid Staking,942.77,0.0000%
+1856,GND Protocol,Yield,936.09,0.0000%
+1857,MonoLend,Lending,931.73,0.0000%
+1858,Calculus,AI Agents,927.95,0.0000%
+1859,Metropolis AMM,Dexs,927.73,0.0000%
+1860,BabySwap,Dexs,924.38,0.0000%
+1861,stash.fun,Onchain Capital Allocator,915.56,0.0000%
+1862,Soswap,Dexs,909.78,0.0000%
+1863,Divvy.Bet,Prediction Market,909.24,0.0000%
+1864,Swap.io CLMM,Dexs,893.58,0.0000%
+1865,PacificSwap V2,Dexs,889.88,0.0000%
+1866,JustMoney,Dexs,880.21,0.0000%
+1867,Arctic,Dexs,873.53,0.0000%
+1868,MacaronSwap,Dexs,863.24,0.0000%
+1869,Pulsar Money,Payments,862.64,0.0000%
+1870,Pear DAO,Services,860.48,0.0000%
+1871,Spectra V1,Yield Aggregator,851.83,0.0000%
+1872,Solayer USD,RWA,848.66,0.0000%
+1873,Tower DEX,Dexs,846.77,0.0000%
+1874,REYIELD Finance,Liquidity Manager,843.92,0.0000%
+1875,Symmetric,Dexs,843.33,0.0000%
+1876,Waterfall DEX,Dexs,840.00,0.0000%
+1877,ETHA Lend,Yield,825.45,0.0000%
+1878,WigoSwap,Dexs,820.09,0.0000%
+1879,Aurelius,CDP,817.81,0.0000%
+1880,Ancora Finance,Dexs,808.32,0.0000%
+1881,Surge,Lending,807.56,0.0000%
+1882,INU FAIR,Dexs,801.23,0.0000%
+1883,Clever Protocol,Dexs,786.85,0.0000%
+1884,Shezmu,CDP,785.18,0.0000%
+1885,Unlimited Network,Derivatives,772.32,0.0000%
+1886,Precog Market,Prediction Market,761.39,0.0000%
+1887,Polyquail,Yield,758.63,0.0000%
+1888,ZKX,Derivatives,754.47,0.0000%
+1889,SageBet,Prediction Market,749.57,0.0000%
+1890,Macaron StableSwap,Dexs,746.58,0.0000%
+1891,Waterfall BSC,Yield,744.42,0.0000%
+1892,ModeSwap,Dexs,742.90,0.0000%
+1893,SmolSwap,Dexs,742.65,0.0000%
+1894,Dradex,Dexs,738.54,0.0000%
+1895,Panoptic V1.1,Options,735.25,0.0000%
+1896,Chedda Finance,Lending,730.55,0.0000%
+1897,Autoearn Finance,Yield Aggregator,723.94,0.0000%
+1898,ZKasino,Prediction Market,719.23,0.0000%
+1899,Magik Farm,Yield Aggregator,717.61,0.0000%
+1900,Melegaswap,Dexs,717.06,0.0000%
+1901,Vector Finance,Yield,714.35,0.0000%
+1902,Nexion Vaults,Yield,698.84,0.0000%
+1903,Bank of Chain,Yield Aggregator,696.56,0.0000%
+1904,ChirpFinance,Farm,693.26,0.0000%
+1905,Frost Finance,Yield,691.83,0.0000%
+1906,IcecreamSwap V3,Dexs,684.50,0.0000%
+1907,BlueMove DEX,Dexs,680.89,0.0000%
+1908,OasisSwap,Dexs,679.63,0.0000%
+1909,Ammos Finance,Dexs,678.39,0.0000%
+1910,Alien Base StableSwap,Dexs,676.60,0.0000%
+1911,OliveDAO,Yield,674.81,0.0000%
+1912,Biconomy.com,CEX,671.93,0.0000%
+1913,Sonic Market OrderBook,Dexs,671.21,0.0000%
+1914,Wombex Finance,Yield,670.95,0.0000%
+1915,BrewSwap,Dexs,665.25,0.0000%
+1916,SynStation,Prediction Market,664.46,0.0000%
+1917,BlackBird Finance,Yield,664.07,0.0000%
+1918,Venuswap,Dexs,662.97,0.0000%
+1919,PurpsExchange,Dexs,659.29,0.0000%
+1920,Rigoblock,Onchain Capital Allocator,658.22,0.0000%
+1921,OnyxDAO,Farm,657.60,0.0000%
+1922,Atlantis,Dexs,653.57,0.0000%
+1923,Impermax V3,Lending,648.08,0.0000%
+1924,Gambit Financial,Derivatives,634.85,0.0000%
+1925,Level,CDP,633.68,0.0000%
+1926,WhaleSwap,Dexs,629.20,0.0000%
+1927,Metapoly,Lending,620.70,0.0000%
+1928,ModeMax Perps,Derivatives,620.11,0.0000%
+1929,OK-BITOK Vault,Yield,615.50,0.0000%
+1930,Sculptor Finance,Lending,614.98,0.0000%
+1931,Rain.fi,Lending,614.54,0.0000%
+1932,Latoken,CEX,611.07,0.0000%
+1933,Graphene by Velocimeter,Dexs,598.17,0.0000%
+1934,Papyrus Swap,Dexs,595.97,0.0000%
+1935,Ura Dex,Dexs,594.11,0.0000%
+1936,Sparkswap,Farm,590.98,0.0000%
+1937,Cove Boosties,Yield Aggregator,590.04,0.0000%
+1938,Subunit,RWA,584.64,0.0000%
+1939,Genesis Finance,Dexs,581.37,0.0000%
+1940,PolyCub,Yield,578.27,0.0000%
+1941,Hodlify,Yield Aggregator,576.04,0.0000%
+1942,PantherSwap,Dexs,574.99,0.0000%
+1943,Mesher,Lending,570.64,0.0000%
+1944,Syrup Finance,Derivatives,569.13,0.0000%
+1945,Z Protocol DEX,Dexs,560.62,0.0000%
+1946,DTX Dex V3,Dexs,558.95,0.0000%
+1947,CroSwap,Dexs,558.46,0.0000%
+1948,Minerva,Derivatives,557.25,0.0000%
+1949,Obric,Dexs,551.73,0.0000%
+1950,ZyberSwap Stableswap,Dexs,543.37,0.0000%
+1951,SOBAX,Derivatives,539.90,0.0000%
+1952,Rari Chain,Canonical Bridge,538.02,0.0000%
+1953,Velocimeter V2,Dexs,537.99,0.0000%
+1954,NOVIS,Yield,535.51,0.0000%
+1955,Pangolin V3,Dexs,527.98,0.0000%
+1956,Fountain Protocol,Lending,527.30,0.0000%
+1957,Koala Defi,Farm,526.65,0.0000%
+1958,Canary,Dexs,526.56,0.0000%
+1959,firefly,Dexs,524.65,0.0000%
+1960,Mauve,Dexs,523.56,0.0000%
+1961,2xSwap,Derivatives,517.65,0.0000%
+1962,HopSwap,Dexs,517.37,0.0000%
+1963,Vee Finance,Lending,513.64,0.0000%
+1964,Sui Rewards Me,Launchpad,510.26,0.0000%
+1965,Nuri Legacy,Dexs,508.26,0.0000%
+1966,StormSwap,Yield,507.61,0.0000%
+1967,BullionFX,Dexs,503.38,0.0000%
+1968,Neptune Protocol,CDP,499.95,0.0000%
+1969,DDDX,Dexs,496.87,0.0000%
+1970,Super DCA,DCA Tools,495.08,0.0000%
+1971,AquaLoan,Lending,492.71,0.0000%
+1972,NxFi Protocol,Lending,490.68,0.0000%
+1973,Nord Finance,Yield Aggregator,487.99,0.0000%
+1974,Holdr,Dexs,478.50,0.0000%
+1975,Archly V2,Dexs,472.36,0.0000%
+1976,D8X,Derivatives,468.73,0.0000%
+1977,AirPuff,Leveraged Farming,466.01,0.0000%
+1978,Squid Stake,Yield,465.26,0.0000%
+1979,AGS Finance,Dexs,462.20,0.0000%
+1980,Coffee Dex,Dexs,458.84,0.0000%
+1981,AmpleSwap,Dexs,456.18,0.0000%
+1982,Yaka V3,Dexs,450.71,0.0000%
+1983,PartySwap,Dexs,444.74,0.0000%
+1984,DaikoDEX,Dexs,443.38,0.0000%
+1985,SharkSwap DEX,Dexs,437.66,0.0000%
+1986,Mozaic,Yield,435.48,0.0000%
+1987,Voltage AMM,Dexs,433.42,0.0000%
+1988,ENZO Finance,Lending,432.26,0.0000%
+1989,CairoFi,Dexs,428.16,0.0000%
+1990,SynthEx,Synthetics,427.72,0.0000%
+1991,DyorSwap AMM,Dexs,423.30,0.0000%
+1992,BitSwap,Cross Chain Bridge,417.78,0.0000%
+1993,Starfish Finance,Dexs,414.08,0.0000%
+1994,Merchant Moe DEX,Dexs,411.43,0.0000%
+1995,Farm Hero,Gaming,410.34,0.0000%
+1996,Synthetify,Synthetics,408.66,0.0000%
+1997,MantaSwap,Dexs,405.76,0.0000%
+1998,Thirdfy,Dexs,399.58,0.0000%
+1999,A51 Finance V2,Liquidity Manager,398.75,0.0000%
+2000,ShibaSwap V2,Dexs,398.53,0.0000%
+2001,SimpleDEX,Dexs,394.46,0.0000%
+2002,Rezerve Money,Reserve Currency,393.78,0.0000%
+2003,Yumiswap,Dexs,392.56,0.0000%
+2004,Cropper CLMM,Dexs,387.50,0.0000%
+2005,Tranchess Yield,Yield,383.83,0.0000%
+2006,Ethervista,Dexs,383.20,0.0000%
+2007,CrescentSwap,Dexs,381.82,0.0000%
+2008,SenpaiSwap,Reserve Currency,380.83,0.0000%
+2009,Narwhal Finance,Derivatives,380.10,0.0000%
+2010,SWFT,Bridge,378.31,0.0000%
+2011,Amaterasu Finance,Dexs,377.23,0.0000%
+2012,Sanctuary,Dexs,376.84,0.0000%
+2013,KryptoDex,Dexs,376.57,0.0000%
+2014,WarpGate,Dexs,371.86,0.0000%
+2015,AuraSwap,Dexs,369.50,0.0000%
+2016,Aeria,Options Vault,365.10,0.0000%
+2017,SandySwap,Dexs,358.18,0.0000%
+2018,UNO farm,Yield Aggregator,357.74,0.0000%
+2019,Spoon Exchange,Dexs,357.49,0.0000%
+2020,MahaLend,Lending,355.45,0.0000%
+2021,Covo V2,Derivatives,355.14,0.0000%
+2022,BOB CDP,CDP,354.99,0.0000%
+2023,SwapMode V3,Dexs,352.43,0.0000%
+2024,PureSwap,Dexs,348.13,0.0000%
+2025,ShadowSwap,Dexs,347.76,0.0000%
+2026,Multiplier,Lending,347.19,0.0000%
+2027,AlienFi,Dexs,342.99,0.0000%
+2028,DTX Dex,Dexs,342.15,0.0000%
+2029,Stratum Exchange,Dexs,340.24,0.0000%
+2030,Velocore V2,Dexs,336.42,0.0000%
+2031,BeamSwap V3,Dexs,334.95,0.0000%
+2032,Defx,Derivatives,332.01,0.0000%
+2033,OrbitalSwap,Dexs,329.80,0.0000%
+2034,Nexion Lending,Lending,327.01,0.0000%
+2035,Peridot,Lending,325.57,0.0000%
+2036,Diamondswap,Dexs,320.55,0.0000%
+2037,Apollon,Synthetics,319.56,0.0000%
+2038,LayerAkira,Dexs,319.54,0.0000%
+2039,Glacier Exchange V2,Dexs,318.69,0.0000%
+2040,Crust V2,Dexs,316.68,0.0000%
+2041,The Seed Farm,Yield,315.26,0.0000%
+2042,Upheaval V3,Dexs,313.82,0.0000%
+2043,Fibonacci Dex,Dexs,313.49,0.0000%
+2044,TangleSwap,Dexs,313.24,0.0000%
+2045,Yield AI,AI Agents,311.63,0.0000%
+2046,Contrax Finance,Yield,311.58,0.0000%
+2047,KnightSwap Finance,Dexs,310.27,0.0000%
+2048,Zino Finance,Yield Aggregator,309.39,0.0000%
+2049,Hamburger Finance,Dexs,308.11,0.0000%
+2050,Grave Finance,Algo-Stables,307.75,0.0000%
+2051,POISON FINANCE,Synthetics,307.57,0.0000%
+2052,LeonicornSwap,Dexs,306.39,0.0000%
+2053,Rhino.fi,Bridge,304.70,0.0000%
+2054,Galador,Dexs,303.47,0.0000%
+2055,Macaron AMM,Dexs,299.09,0.0000%
+2056,STON.fi,Dexs,297.63,0.0000%
+2057,Unilend V1,Lending,296.71,0.0000%
+2058,MantleSwap,Dexs,296.60,0.0000%
+2059,DeepLock,Launchpad,292.25,0.0000%
+2060,dexSWAP,Dexs,292.14,0.0000%
+2061,OCP Finance,Lending,288.48,0.0000%
+2062,Sphynx,Dexs,286.22,0.0000%
+2063,Palmy Finance,Lending,285.99,0.0000%
+2064,Muuu Finance,Yield,283.89,0.0000%
+2065,Sorare Bridge,Canonical Bridge,283.18,0.0000%
+2066,Loanshark Core,Lending,282.98,0.0000%
+2067,Tulip,Algo-Stables,282.09,0.0000%
+2068,Salty.IO,Dexs,281.53,0.0000%
+2069,Veax CLMM,Dexs,280.94,0.0000%
+2070,Spartan,Dexs,279.00,0.0000%
+2071,Magma Finance ALMM,Dexs,277.50,0.0000%
+2072,Double,Yield,277.05,0.0000%
+2073,Swapline V1,Dexs,271.40,0.0000%
+2074,BaseX Finance,Dexs,268.51,0.0000%
+2075,SilverSwap,Dexs,268.45,0.0000%
+2076,KoffeeSwap,Dexs,267.70,0.0000%
+2077,FusionX V2,Dexs,267.68,0.0000%
+2078,zkEra Finance,Derivatives,266.06,0.0000%
+2079,UdonFi Lending,Lending,265.91,0.0000%
+2080,PonySwap,Dexs,264.48,0.0000%
+2081,Archly V1,Dexs,263.59,0.0000%
+2082,zkSwap Era,Dexs,262.28,0.0000%
+2083,InVar Finance,RWA,261.96,0.0000%
+2084,CavalRe,Dexs,261.56,0.0000%
+2085,L2X.pro,Dexs,261.27,0.0000%
+2086,SpaceWhale,Derivatives,260.44,0.0000%
+2087,Return Finance,Yield Aggregator,258.15,0.0000%
+2088,Standard Protocol Mode,Dexs,255.60,0.0000%
+2089,BXH,Dexs,249.53,0.0000%
+2090,Cleopatra CL,Dexs,249.37,0.0000%
+2091,3A DAO,CDP,241.56,0.0000%
+2092,Whitehole Finance,Lending,240.50,0.0000%
+2093,LFGSwap XLayer,Dexs,240.10,0.0000%
+2094,Yoshi Exchange,Dexs,237.85,0.0000%
+2095,ChainPort,Bridge,237.25,0.0000%
+2096,Velocimeter V1,Dexs,235.53,0.0000%
+2097,Beluga Protocol,Dexs,231.06,0.0000%
+2098,Notional V3,Lending,229.62,0.0000%
+2099,KaiaSwap,Dexs,227.88,0.0000%
+2100,Henjin DEX,Dexs,226.77,0.0000%
+2101,Swaprum,Dexs,224.49,0.0000%
+2102,The Grand Banks,Yield,223.06,0.0000%
+2103,LuxsFi,Yield Aggregator,221.92,0.0000%
+2104,Bagels Finance,Yield,220.34,0.0000%
+2105,MobiusDEX,Dexs,218.63,0.0000%
+2106,Rebalance Finance,Lending,217.20,0.0000%
+2107,Elys Earn,Lending,216.96,0.0000%
+2108,Tonpound,Lending,212.23,0.0000%
+2109,Bumper Finance,Options,210.85,0.0000%
+2110,Common,Privacy,210.27,0.0000%
+2111,Sonus Exchange CLMM,Dexs,208.00,0.0000%
+2112,Golff Protocol,Yield,204.73,0.0000%
+2113,TTswap,Dexs,204.47,0.0000%
+2114,JaguarSwap,Yield,202.70,0.0000%
+2115,MiniSwap,Dexs,201.81,0.0000%
+2116,Supervaults,Liquidity Manager,199.94,0.0000%
+2117,Garbi Protocol,Yield,199.74,0.0000%
+2118,MintSwap,Farm,198.28,0.0000%
+2119,GFEX,Prediction Market,197.60,0.0000%
+2120,Perfect Pool,Prediction Market,193.49,0.0000%
+2121,Asset Chain Swap,Dexs,192.97,0.0000%
+2122,Wild Credit,Lending,189.88,0.0000%
+2123,Denaria,Derivatives,188.01,0.0000%
+2124,Oaswap,Dexs,186.51,0.0000%
+2125,LFGSwap EthereumPoW,Dexs,181.36,0.0000%
+2126,ViperSwap,Dexs,180.71,0.0000%
+2127,casinocronos,Dexs,177.43,0.0000%
+2128,Revert V3 Staker,Liquidity Manager,177.29,0.0000%
+2129,Buffer Finance,Options,177.18,0.0000%
+2130,OkieSwap V3,Dexs,176.88,0.0000%
+2131,Strater,Yield,175.12,0.0000%
+2132,Tropykus zkEVM,Lending,173.87,0.0000%
+2133,Matrix Farm,Yield Aggregator,173.59,0.0000%
+2134,Monolith,Yield Aggregator,173.37,0.0000%
+2135,MarshmallowDeFi,Yield,172.34,0.0000%
+2136,EazySwap,Dexs,171.82,0.0000%
+2137,Trustin Finance,Lending,170.58,0.0000%
+2138,Starksport,Dexs,169.75,0.0000%
+2139,JSwap,Dexs,169.75,0.0000%
+2140,SuperSwap V3,Dexs,163.18,0.0000%
+2141,theGoblins,Yield,161.42,0.0000%
+2142,Physica Finance,Dexs,160.56,0.0000%
+2143,Chiliswap,Dexs,160.44,0.0000%
+2144,MicroSwap,Yield,160.27,0.0000%
+2145,CygnusDAO,Lending,158.91,0.0000%
+2146,Keller Finance V3,Dexs,155.67,0.0000%
+2147,Arbswap StableSwap,Dexs,154.88,0.0000%
+2148,Synthswap V3,Dexs,154.66,0.0000%
+2149,Memento,Yield,154.25,0.0000%
+2150,LoopFi,Yield Aggregator,153.83,0.0000%
+2151,Unknown,Yield,153.36,0.0000%
+2152,Pump Markets,OTC Marketplace,151.92,0.0000%
+2153,OpenSwap,Dexs,150.55,0.0000%
+2154,Metavault AMM V2,Dexs,148.89,0.0000%
+2155,DeGate,Dexs,147.89,0.0000%
+2156,Arbitrum Exchange V3,Dexs,145.22,0.0000%
+2157,ZenDEX,CDP,145.10,0.0000%
+2158,PredMart,Prediction Market,144.11,0.0000%
+2159,SupSwap V2,Dexs,142.19,0.0000%
+2160,HyperJump,Dexs,140.27,0.0000%
+2161,Sperax Demeter,Farm,139.11,0.0000%
+2162,GPLX,Derivatives,138.05,0.0000%
+2163,Burve Protocol,Dexs,135.60,0.0000%
+2164,Owna,Lending,133.98,0.0000%
+2165,BeamSwap Stable AMM,Dexs,133.85,0.0000%
+2166,Zeus Finance,Yield,132.83,0.0000%
+2167,Ithil,Leveraged Farming,131.16,0.0000%
+2168,ElectroWizy,Yield,127.01,0.0000%
+2169,ModeMax AMM,Dexs,127.00,0.0000%
+2170,UniWswap UNIA Farms,Farm,126.88,0.0000%
+2171,StakePoint,Farm,125.12,0.0000%
+2172,Crust V1,Dexs,123.74,0.0000%
+2173,Stronghands,Dexs,123.40,0.0000%
+2174,KronosDAO,Reserve Currency,121.05,0.0000%
+2175,Emerald Swap,Yield,118.42,0.0000%
+2176,Hunny Finance,Yield,117.67,0.0000%
+2177,SquadSwap V3,Dexs,116.58,0.0000%
+2178,Zolidly Finance,Dexs,116.13,0.0000%
+2179,WEEX,CEX,115.99,0.0000%
+2180,Sugar Swap,Dexs,115.32,0.0000%
+2181,Iguana Stableswap,Dexs,114.11,0.0000%
+2182,TradingStrategy,Onchain Capital Allocator,113.97,0.0000%
+2183,Aboard Exchange,Derivatives,113.74,0.0000%
+2184,OpenDAO,Algo-Stables,110.31,0.0000%
+2185,Possum Finance,Yield,110.21,0.0000%
+2186,Jet Fixed Term,Lending,109.21,0.0000%
+2187,YFX,Derivatives,108.89,0.0000%
+2188,Bunicorn,Dexs,108.59,0.0000%
+2189,OpenOcean,DEX Aggregator,108.43,0.0000%
+2190,Gin Finance,Dexs,108.33,0.0000%
+2191,Swyrl CL,Dexs,108.23,0.0000%
+2192,Dexilla,Dexs,108.19,0.0000%
+2193,StakeNova,Yield,107.76,0.0000%
+2194,BetFolio,Prediction Market,105.98,0.0000%
+2195,Bounce Finance,Launchpad,104.98,0.0000%
+2196,Koyo Finance,Dexs,104.97,0.0000%
+2197,Unicly,Dexs,104.84,0.0000%
+2198,Dove Swap V2,Dexs,103.90,0.0000%
+2199,Rainbow Bridge,Bridge,102.19,0.0000%
+2200,VAX,Dexs,102.10,0.0000%
+2201,ValleySwap,Dexs,101.43,0.0000%
+2202,SpinaqDex,Dexs,100.66,0.0000%
+2203,Sega Swap,Dexs,100.23,0.0000%
+2204,ZenyDex,Lending,100.05,0.0000%
+2205,BasaFish,RWA,99.98,0.0000%
+2206,Hyperdrive,Yield,99.62,0.0000%
+2207,Interlay Dex,Dexs,99.59,0.0000%
+2208,PolyYeld Finance,Yield,99.36,0.0000%
+2209,COREx Network,Dexs,97.78,0.0000%
+2210,DackieSwap V2,Dexs,96.12,0.0000%
+2211,Keller Finance V2,Dexs,95.74,0.0000%
+2212,Monopoly Finance,Farm,95.41,0.0000%
+2213,Solar Dex,Dexs,94.67,0.0000%
+2214,Kawa Finance,Lending,94.08,0.0000%
+2215,LineHub V3,Dexs,93.34,0.0000%
+2216,ShiftDollar,Algo-Stables,91.95,0.0000%
+2217,Fathom Lending,Lending,91.64,0.0000%
+2218,Lovely Swap,Dexs,89.11,0.0000%
+2219,Agora,Lending,89.00,0.0000%
+2220,OctoSwap Classic,Dexs,88.78,0.0000%
+2221,Lendle Yield,Yield,88.72,0.0000%
+2222,JPOW AI,CDP,88.08,0.0000%
+2223,P2PB2B,CEX,85.71,0.0000%
+2224,Jolt,Lending,85.64,0.0000%
+2225,ArthSwap V3,Dexs,85.52,0.0000%
+2226,Sharelock,Dexs,84.29,0.0000%
+2227,VaporDex V2,Dexs,84.16,0.0000%
+2228,Quillswap,Dexs,83.41,0.0000%
+2229,ZKFairSwap,Dexs,83.02,0.0000%
+2230,VaporDex V1,Dexs,82.11,0.0000%
+2231,Pandora,Dexs,81.79,0.0000%
+2232,Hydrometer Finance,Dexs,79.93,0.0000%
+2233,Ring Swap,Dexs,79.39,0.0000%
+2234,NovaSwap V2,Dexs,78.49,0.0000%
+2235,Tashi,Lending,77.94,0.0000%
+2236,Dubble Exchange,Yield,77.02,0.0000%
+2237,TrainSwap,Dexs,75.62,0.0000%
+2238,KaleidoCube,Dexs,74.16,0.0000%
+2239,FilDA,Lending,73.83,0.0000%
+2240,Oceanos,CDP,73.24,0.0000%
+2241,Roe Finance,Lending,72.71,0.0000%
+2242,Mirage Protocol,Derivatives,72.18,0.0000%
+2243,Frax USD,RWA,71.99,0.0000%
+2244,Atlendis V2,RWA Lending,71.39,0.0000%
+2245,Synthswap V2,Dexs,71.25,0.0000%
+2246,Omni Exchange Flux,Dexs,70.67,0.0000%
+2247,NewSpace Finance,Farm,70.49,0.0000%
+2248,Astar Exchange V3,Dexs,70.31,0.0000%
+2249,Vicuna Leveraged Farming,Leveraged Farming,70.17,0.0000%
+2250,Native Swap,Dexs,69.34,0.0000%
+2251,ko.one,Dexs,69.25,0.0000%
+2252,Cyber Dog,Yield,67.59,0.0000%
+2253,Pandora Swap,Dexs,67.16,0.0000%
+2254,Orange Finance,Liquidity Manager,66.83,0.0000%
+2255,HoldStation DeFutures,Derivatives,65.87,0.0000%
+2256,Bril Finance,Yield Aggregator,65.24,0.0000%
+2257,Interest Protocol-SUI,Dexs,65.13,0.0000%
+2258,Parity DEX,Dexs,64.91,0.0000%
+2259,Mooncake Finance,Lending,64.69,0.0000%
+2260,Gas404Swap,Dexs,63.73,0.0000%
+2261,FlokiFi Locker,Token Locker,63.25,0.0000%
+2262,Rivera Money,Liquidity Manager,61.78,0.0000%
+2263,Dunes,Liquid Restaking,61.48,0.0000%
+2264,NEST V2,Dexs,61.46,0.0000%
+2265,Zircuit,Canonical Bridge,61.15,0.0000%
+2266,Althea DEX,Dexs,61.08,0.0000%
+2267,Satin Exchange,Dexs,61.06,0.0000%
+2268,SoliSnek Finance,Dexs,60.66,0.0000%
+2269,X Blue Finance,Yield,60.50,0.0000%
+2270,Ginseng Swap,Dexs,60.16,0.0000%
+2271,FireDAO,Yield,59.76,0.0000%
+2272,Qubit,Lending,59.52,0.0000%
+2273,Twindex,Options,59.17,0.0000%
+2274,MetaCrono,Yield Aggregator,58.88,0.0000%
+2275,Double Club,Yield Aggregator,57.63,0.0000%
+2276,ZKcandy Bridge,Canonical Bridge,57.62,0.0000%
+2277,SummitX Finance,Dexs,57.29,0.0000%
+2278,Lighter V1,Dexs,57.26,0.0000%
+2279,Robo-Advisor for Yield,Yield,55.90,0.0000%
+2280,UniFarm,Yield,55.07,0.0000%
+2281,GooseFX V2,Dexs,55.05,0.0000%
+2282,ZenithSwap,Dexs,54.84,0.0000%
+2283,CLAMM,Dexs,54.05,0.0000%
+2284,Trinity Protocol,Risk Curators,53.31,0.0000%
+2285,FluxusFi,Dexs,53.19,0.0000%
+2286,Nether.Fi,Derivatives,53.01,0.0000%
+2287,AethonSwap,Dexs,52.66,0.0000%
+2288,YouSwap,Dexs,52.06,0.0000%
+2289,BitZap,Dexs,51.77,0.0000%
+2290,Sweep n Flip,NFT Marketplace,51.39,0.0000%
+2291,AImstrong,Lending,51.22,0.0000%
+2292,Omni Exchange V2,Dexs,50.68,0.0000%
+2293,Vertex Perps,Derivatives,49.99,0.0000%
+2294,Catalyst,Cross Chain Bridge,49.99,0.0000%
+2295,Blast Bridge,Canonical Bridge,49.93,0.0000%
+2296,QuantoSwap,Dexs,49.74,0.0000%
+2297,BlueSpade,Derivatives,49.59,0.0000%
+2298,ZenoLend,Lending,49.51,0.0000%
+2299,CryptoSwap,Dexs,48.76,0.0000%
+2300,Global Balanced Liquidity Index,Indexes,48.30,0.0000%
+2301,KyotoSwap,Dexs,47.55,0.0000%
+2302,Hodltree,Lending,47.53,0.0000%
+2303,Sonic Market AMM,Dexs,46.28,0.0000%
+2304,Procyon,Farm,46.13,0.0000%
+2305,LeetSwap,Dexs,45.84,0.0000%
+2306,LFGSwap Arbitrum,Dexs,45.54,0.0000%
+2307,Gloom Finance,Dexs,45.52,0.0000%
+2308,Juggler Red,Dexs,45.51,0.0000%
+2309,SomeSwap AMM,Dexs,44.14,0.0000%
+2310,Beamex Perps,Derivatives,43.91,0.0000%
+2311,PancakeSwap Options,Options,43.17,0.0000%
+2312,Sonic Market Liquidity Vault,Dexs,42.71,0.0000%
+2313,SweetSwap,Dexs,42.68,0.0000%
+2314,BaseYield,Yield Aggregator,42.24,0.0000%
+2315,Valoro,Indexes,41.31,0.0000%
+2316,Mobius Money,Dexs,41.11,0.0000%
+2317,Poor Exchange,Dexs,40.70,0.0000%
+2318,AptosLaunch,Launchpad,40.12,0.0000%
+2319,stabble CLMM,Dexs,39.46,0.0000%
+2320,Wavelength DAO,Dexs,39.37,0.0000%
+2321,Jumbo Exchange,Dexs,39.37,0.0000%
+2322,MapleDeFi,Yield,38.98,0.0000%
+2323,Channels Finance,Lending,38.97,0.0000%
+2324,BLUE Protocol,Reserve Currency,38.63,0.0000%
+2325,FATExFi,Dexs,38.17,0.0000%
+2326,SquaDeFi,SoFi,38.09,0.0000%
+2327,CoinDrip,Payments,37.81,0.0000%
+2328,Starbank,Dexs,37.57,0.0000%
+2329,MegaETH Bridge,Canonical Bridge,37.20,0.0000%
+2330,CoinCollect,Dexs,35.63,0.0000%
+2331,OneDollarDCAE,DCA Tools,34.99,0.0000%
+2332,SunflowerSwap,Farm,34.96,0.0000%
+2333,sedge,Dexs,33.97,0.0000%
+2334,BrightSide,Dexs,33.65,0.0000%
+2335,Lava,Lending,33.58,0.0000%
+2336,Gondi V3,NFT Lending,33.49,0.0000%
+2337,GooseFX V1,Dexs,33.20,0.0000%
+2338,Slender,Lending,32.97,0.0000%
+2339,Viridian Exchange,Dexs,32.71,0.0000%
+2340,LogX V2,Derivatives,32.68,0.0000%
+2341,ApexSwap,Dexs,32.32,0.0000%
+2342,OpenWorld Farm,Leveraged Farming,32.08,0.0000%
+2343,Spiral Fi Mixer,Privacy,32.00,0.0000%
+2344,U235,Lending,31.99,0.0000%
+2345,Baso Finance,Dexs,31.82,0.0000%
+2346,Kinto Bridge,Canonical Bridge,31.06,0.0000%
+2347,Standard Spot CLOB,Dexs,31.01,0.0000%
+2348,MYSO V1,Lending,30.62,0.0000%
+2349,WardenSwap,Dexs,30.49,0.0000%
+2350,MagicFox Swap,Dexs,30.47,0.0000%
+2351,Ithaca Protocol,Options,30.39,0.0000%
+2352,TidalDex,Dexs,29.97,0.0000%
+2353,ScorePlay.xyz,Prediction Market,29.66,0.0000%
+2354,Orbit Finance,Dexs,29.44,0.0000%
+2355,ApolloDAO,Yield,29.37,0.0000%
+2356,Unihedge,Prediction Market,29.06,0.0000%
+2357,AbstraDEX,Dexs,28.91,0.0000%
+2358,LootSwap,Dexs,28.53,0.0000%
+2359,FlashLiquidity,Dexs,28.28,0.0000%
+2360,Doora Inu,Yield,27.75,0.0000%
+2361,Meow Protocol,Lending,27.38,0.0000%
+2362,StationDEX V3,Dexs,27.28,0.0000%
+2363,SurgeDefi,Dexs,27.14,0.0000%
+2364,Moai V3,Dexs,26.37,0.0000%
+2365,Baguette,Dexs,26.35,0.0000%
+2366,RetroDefi,Yield,26.13,0.0000%
+2367,NEX,Derivatives,25.56,0.0000%
+2368,BaptSwap V1,Dexs,25.52,0.0000%
+2369,SMBSwap V2,Dexs,25.29,0.0000%
+2370,OnX Finance,Yield Aggregator,25.02,0.0000%
+2371,Ubeswap V2,Dexs,24.95,0.0000%
+2372,Circuit Protocol,Yield Aggregator,24.85,0.0000%
+2373,UniFi,Dexs,24.69,0.0000%
+2374,FstSwap,Dexs,24.45,0.0000%
+2375,TaiDog,Yield,24.34,0.0000%
+2376,Virtus Protocol AMM,Dexs,24.13,0.0000%
+2377,BaptSwap V2,Dexs,24.12,0.0000%
+2378,Revest Finance,NFT Lending,23.86,0.0000%
+2379,Superman Swap,Yield Aggregator,23.59,0.0000%
+2380,Chronos V2,Dexs,23.41,0.0000%
+2381,BorgSwap,Yield,23.06,0.0000%
+2382,KIM Exchange V1,Dexs,23.01,0.0000%
+2383,WaterDendy,Yield,22.79,0.0000%
+2384,Aquas Trade,Dexs,22.68,0.0000%
+2385,dTRINITY dUSD,Partially Algorithmic Stablecoin,22.29,0.0000%
+2386,LeMONAD,Dexs,22.24,0.0000%
+2387,Revoswap,Dexs,22.22,0.0000%
+2388,Litx,Dexs,22.12,0.0000%
+2389,DegenHive AMM,Dexs,21.27,0.0000%
+2390,unagiswap,Dexs,21.10,0.0000%
+2391,Mobius Exchange,Dexs,20.68,0.0000%
+2392,Ajira Pay Finance V1,Payments,20.40,0.0000%
+2393,Bodh Finance,Lending,20.10,0.0000%
+2394,Y2R,Yield Aggregator,20.04,0.0000%
+2395,Glori Finance,Lending,20.00,0.0000%
+2396,Chee Finance,Lending,19.81,0.0000%
+2397,SundaeSwap V3,Dexs,19.49,0.0000%
+2398,Flair Dex,Dexs,19.40,0.0000%
+2399,ENNI,CDP,19.32,0.0000%
+2400,SoulSwap,Dexs,18.97,0.0000%
+2401,TydeShift,Dexs,18.96,0.0000%
+2402,Coinhain,Dexs,18.61,0.0000%
+2403,v60,Dexs,18.60,0.0000%
+2404,savmSwap,Dexs,18.47,0.0000%
+2405,Alium Swap,Dexs,18.20,0.0000%
+2406,PepeDex,Gaming,17.83,0.0000%
+2407,YieldFields,Dexs,17.80,0.0000%
+2408,Phenix DEX,Dexs,17.43,0.0000%
+2409,Moai V2,Dexs,17.37,0.0000%
+2410,OKCSwap,Dexs,17.31,0.0000%
+2411,OneSwap,Dexs,16.59,0.0000%
+2412,SingularV,Risk Curators,16.45,0.0000%
+2413,Xei Finance,Dexs,16.07,0.0000%
+2414,OpenXswap,Dexs,15.96,0.0000%
+2415,PowerSwap,Dexs,15.41,0.0000%
+2416,ColaFactory,Farm,15.36,0.0000%
+2417,Holdstation Swap,Dexs,15.30,0.0000%
+2418,Clawloan,Uncollateralized Lending,15.16,0.0000%
+2419,KuraSwap CL,Dexs,15.11,0.0000%
+2420,EchoDEX V2,Dexs,14.30,0.0000%
+2421,Kayak V3,Dexs,14.19,0.0000%
+2422,TanukiX,Dexs,13.92,0.0000%
+2423,Sobal,Dexs,13.49,0.0000%
+2424,Asteria Finance,Dexs,13.33,0.0000%
+2425,PowerFlow,Bridge,13.19,0.0000%
+2426,FIAT DAO,Yield,13.02,0.0000%
+2427,ABcDeFX,Dexs,12.90,0.0000%
+2428,Zinax DAO,Farm,12.80,0.0000%
+2429,Fizzswap V2,Dexs,12.56,0.0000%
+2430,Jadeswap,Dexs,12.27,0.0000%
+2431,Untangled RWA,RWA,12.02,0.0000%
+2432,Tea-Fi,Yield,12.01,0.0000%
+2433,Unichain Bridge,Canonical Bridge,12.00,0.0000%
+2434,XRiSE33 Network,Dexs,12.00,0.0000%
+2435,Tren Finance,CDP,11.98,0.0000%
+2436,PyreSwap,Dexs,11.85,0.0000%
+2437,Tealswap V3,Dexs,11.82,0.0000%
+2438,Swapline V2,Dexs,11.76,0.0000%
+2439,StackFi,Lending,11.63,0.0000%
+2440,Silo Protocol,Options Vault,11.61,0.0000%
+2441,Cakepie,Yield,11.61,0.0000%
+2442,XY Finance,Cross Chain Bridge,11.55,0.0000%
+2443,MethLab,Lending,11.44,0.0000%
+2444,Ostrich,Derivatives,11.29,0.0000%
+2445,Ice Colony,Yield,11.11,0.0000%
+2446,Kimberlite,Yield,11.10,0.0000%
+2447,Stacker Ventures,Yield,10.94,0.0000%
+2448,BaseFinance,Dexs,10.75,0.0000%
+2449,KlaySwap V3,Dexs,10.42,0.0000%
+2450,Spectrumswap,Farm,10.16,0.0000%
+2451,Liquid Driver,Yield,10.14,0.0000%
+2452,Metavault Binary Options,Options,10.11,0.0000%
+2453,ChampagneSwap,Dexs,10.10,0.0000%
+2454,MortgageFi,Lending,10.09,0.0000%
+2455,Powaa Protocol,Services,10.00,0.0000%
+2456,NetWeave Vaults,Yield,10.00,0.0000%
+2457,SMARDEX P2P Lending,Lending,10.00,0.0000%
+2458,HOPE Lend,Lending,10.00,0.0000%
+2459,PRINT3R,Derivatives,9.82,0.0000%
+2460,AvaViking,Yield,9.63,0.0000%
+2461,Pls2e,Dexs,9.62,0.0000%
+2462,Kinetix AMM V2,Dexs,9.57,0.0000%
+2463,Defi Master,Yield,9.57,0.0000%
+2464,Fyde Protocol,Yield Aggregator,9.45,0.0000%
+2465,Hydradex V3,Dexs,9.38,0.0000%
+2466,DexPad,Launchpad,9.34,0.0000%
+2467,zkBoost,Launchpad,9.20,0.0000%
+2468,Amped Finance,Derivatives,9.01,0.0000%
+2469,Mori Protocol,Dexs,9.00,0.0000%
+2470,JBC.Finance,Leveraged Farming,8.98,0.0000%
+2471,MultichainZ,Lending,8.98,0.0000%
+2472,Synthetix V3,Derivatives,8.95,0.0000%
+2473,Evolve eUSD,Yield Aggregator,8.94,0.0000%
+2474,Evolve,Lending,8.82,0.0000%
+2475,Maduck Club,Farm,8.73,0.0000%
+2476,Nayms,Insurance,8.66,0.0000%
+2477,Camel Farm,Farm,8.47,0.0000%
+2478,SpiritSwap AMM,Dexs,8.26,0.0000%
+2479,InkySwap,Dexs,8.13,0.0000%
+2480,Grim Finance,Yield,8.09,0.0000%
+2481,Energyfi,Dexs,7.85,0.0000%
+2482,S Finance,Dexs,7.76,0.0000%
+2483,BitGenie AMM,Dexs,7.75,0.0000%
+2484,Hakka Finance,Derivatives,7.72,0.0000%
+2485,ChadFinance,Dexs,7.71,0.0000%
+2486,Capybara AMM,Dexs,7.60,0.0000%
+2487,ButterSwap,Dexs,7.59,0.0000%
+2488,Numbers Protocol,Services,7.55,0.0000%
+2489,Foodcourt,Dexs,7.38,0.0000%
+2490,SafeSwap,Dexs,7.31,0.0000%
+2491,Bundie,Yield Aggregator,7.24,0.0000%
+2492,SeaLightSwap,Dexs,7.21,0.0000%
+2493,Purple Bridge DEX,Dexs,7.09,0.0000%
+2494,Lexer Markets,Derivatives,7.07,0.0000%
+2495,Coup Farm,Yield,7.02,0.0000%
+2496,Avaware,Yield,6.76,0.0000%
+2497,Y2K V2,Derivatives,6.61,0.0000%
+2498,CyberFantasyFembots,Yield,6.61,0.0000%
+2499,Ploutos Money,Lending,6.57,0.0000%
+2500,Lucky38,Luck Games,6.56,0.0000%
+2501,IguanaDEX V2,Dexs,6.48,0.0000%
+2502,SquadSwap V2,Dexs,6.47,0.0000%
+2503,KuraSwap Legacy,Dexs,6.31,0.0000%
+2504,ELYFI,RWA,6.31,0.0000%
+2505,SoliDex Finance V2,Dexs,6.17,0.0000%
+2506,LowcostSwap,Yield,6.15,0.0000%
+2507,KSwap Finance,Dexs,6.04,0.0000%
+2508,Cypher V2,Dexs,6.00,0.0000%
+2509,LineHub V2,Dexs,5.93,0.0000%
+2510,fMoney,Lending,5.91,0.0000%
+2511,GroveX,CEX,5.60,0.0000%
+2512,FNDZ,Dexs,5.56,0.0000%
+2513,RubikFarm,Farm,5.39,0.0000%
+2514,ShibShift,Dexs,5.39,0.0000%
+2515,Openworld Perps,Derivatives,5.30,0.0000%
+2516,Oni Exchange,Dexs,5.19,0.0000%
+2517,Snake Finance,Algo-Stables,5.19,0.0000%
+2518,Micro Credit Project,Uncollateralized Lending,5.00,0.0000%
+2519,Interest Protocol Stable Swap,Dexs,5.00,0.0000%
+2520,onAVAX,Dexs,4.87,0.0000%
+2521,MixSwap Finance,Farm,4.80,0.0000%
+2522,Gaia DAO,Reserve Currency,4.80,0.0000%
+2523,Keom Protocol,Lending,4.78,0.0000%
+2524,YieldPulse Finance,Farm,4.76,0.0000%
+2525,Ad-Astra Bridge,Bridge,4.63,0.0000%
+2526,KTX Perps,Derivatives,4.61,0.0000%
+2527,OpenEX,Dexs,4.59,0.0000%
+2528,Memebox,Dexs,4.51,0.0000%
+2529,Clutch Markets,Prediction Market,4.50,0.0000%
+2530,Envelop,NftFi,4.47,0.0000%
+2531,SomeSwap CL,Dexs,4.41,0.0000%
+2532,Big Data Protocol,Yield,4.25,0.0000%
+2533,Alterscope,Risk Curators,4.19,0.0000%
+2534,Babylon Finance,Indexes,4.17,0.0000%
+2535,JioSwap,Dexs,4.16,0.0000%
+2536,HunnySwap,Dexs,4.06,0.0000%
+2537,Pharaoh CL,Dexs,4.02,0.0000%
+2538,TendieSwap,Dexs,4.00,0.0000%
+2539,CirclePacific,Dexs,3.91,0.0000%
+2540,AstroFi,Dexs,3.82,0.0000%
+2541,Sirio Finance,Lending,3.56,0.0000%
+2542,Axion Finance V3,Dexs,3.46,0.0000%
+2543,Xray Swap,Yield,3.44,0.0000%
+2544,Realperp,Derivatives,3.35,0.0000%
+2545,VoltageSwap,Dexs,3.32,0.0000%
+2546,CrossChain Bridge,Cross Chain Bridge,3.21,0.0000%
+2547,SparkleX,Yield,3.21,0.0000%
+2548,JetFuel Finance,Yield,3.16,0.0000%
+2549,DeFiner,Lending,3.13,0.0000%
+2550,Panda Chef,Farm,3.12,0.0000%
+2551,Liquid Bolt,Yield,3.10,0.0000%
+2552,Velox DEX,Dexs,3.09,0.0000%
+2553,L2FINANCE,Lending,3.00,0.0000%
+2554,Swapr V3,Dexs,2.89,0.0000%
+2555,Auto Core,Yield Aggregator,2.73,0.0000%
+2556,Blend Finance,Lending,2.69,0.0000%
+2557,Frax Swap,Dexs,2.68,0.0000%
+2558,W3swap,Dexs,2.64,0.0000%
+2559,Solana Farm,Dexs,2.63,0.0000%
+2560,Inferno Swap,Dexs,2.60,0.0000%
+2561,Nirvana V1,CDP,2.51,0.0000%
+2562,JaceSwap,Dexs,2.49,0.0000%
+2563,Unilend V2,Lending,2.49,0.0000%
+2564,Poseidollar,Algo-Stables,2.48,0.0000%
+2565,Complus Network,Dexs,2.47,0.0000%
+2566,MAMA,Dexs,2.47,0.0000%
+2567,RocketSwap Base,Dexs,2.46,0.0000%
+2568,Rho Protocol,Derivatives,2.43,0.0000%
+2569,Poolside,Dexs,2.37,0.0000%
+2570,MochiSwap,Dexs,2.28,0.0000%
+2571,Voltage V3,Dexs,2.25,0.0000%
+2572,Oxygen,Lending,2.21,0.0000%
+2573,Euler V1,Lending,2.16,0.0000%
+2574,Jujube Finance,Dexs,2.16,0.0000%
+2575,Archon Bridge,Bridge,2.09,0.0000%
+2576,Brink,Onchain Capital Allocator,2.07,0.0000%
+2577,ZKEX,Dexs,2.02,0.0000%
+2578,Snail Finance,Lending,2.01,0.0000%
+2579,YFarmer,Risk Curators,2.00,0.0000%
+2580,AGDEX,Derivatives,1.91,0.0000%
+2581,Esper Finance,Dexs,1.90,0.0000%
+2582,Kalmy App,Yield,1.88,0.0000%
+2583,Morphex V2,Derivatives,1.84,0.0000%
+2584,1Beam,Dexs,1.79,0.0000%
+2585,Mirai,Yield,1.75,0.0000%
+2586,The Ennead Farm,Yield,1.68,0.0000%
+2587,Yogurt Finance,Farm,1.65,0.0000%
+2588,Nexion DEX,Dexs,1.64,0.0000%
+2589,BurgerSwap,Dexs,1.64,0.0000%
+2590,Belief Market,Prediction Market,1.64,0.0000%
+2591,Pangea Swap,Dexs,1.63,0.0000%
+2592,KLEX Finance,Dexs,1.52,0.0000%
+2593,Algodex,Dexs,1.50,0.0000%
+2594,The Standard,CDP,1.47,0.0000%
+2595,Rhombus Protocol,Lending,1.46,0.0000%
+2596,StellaSwap V4,Dexs,1.44,0.0000%
+2597,Rocky,CDP,1.43,0.0000%
+2598,Orion Pools,Dexs,1.42,0.0000%
+2599,GullNetwork Service,Farm,1.37,0.0000%
+2600,Monocerus,Dexs,1.32,0.0000%
+2601,EveryFinance,Indexes,1.29,0.0000%
+2602,INDX,Indexes,1.27,0.0000%
+2603,GmCash,Algo-Stables,1.26,0.0000%
+2604,Depth,Dexs,1.25,0.0000%
+2605,Epoch Island,Farm,1.23,0.0000%
+2606,FoxSwap,Yield,1.22,0.0000%
+2607,Dexodus Finance,Derivatives,1.22,0.0000%
+2608,Lisk Bridge,Canonical Bridge,1.20,0.0000%
+2609,Penguin,Dexs,1.20,0.0000%
+2610,Avalon Superearn,Yield,1.20,0.0000%
+2611,PMI Protocol,Indexes,1.20,0.0000%
+2612,Royco V2,Yield,1.20,0.0000%
+2613,Kassandra DAO,Indexes,1.19,0.0000%
+2614,Eventum Bridge,Canonical Bridge,1.18,0.0000%
+2615,O2 Exchange,Dexs,1.17,0.0000%
+2616,Napier,Yield,1.16,0.0000%
+2617,BWSWAP,Dexs,1.11,0.0000%
+2618,ShekelSwap,Dexs,1.11,0.0000%
+2619,Vingt.io,Indexes,1.08,0.0000%
+2620,Fizzswap V3,Dexs,1.08,0.0000%
+2621,GxyPad,Dexs,1.07,0.0000%
+2622,SpiritSwap V3,Dexs,1.06,0.0000%
+2623,Infy Protocol,NFT Lending,1.04,0.0000%
+2624,KoalaSwap,Dexs,1.01,0.0000%
+2625,SonicSwap,Dexs,1.01,0.0000%
+2626,Themis Protocol,Lending,1.01,0.0000%
+2627,Lume Finance,Farm,1.00,0.0000%
+2628,Ace of Base,Farm,1.00,0.0000%
+2629,DefiBox,Dexs,1.00,0.0000%
+2630,Moth Finance,Algo-Stables,1.00,0.0000%
+2631,Keel Finance,Yield,1.00,0.0000%
+2632,Cerra,Lending,1.00,0.0000%
+2633,dAMM Finance,Uncollateralized Lending,1.00,0.0000%
+2634,Debets,Prediction Market,0.95,0.0000%
+2635,OkieSwap V2,Dexs,0.93,0.0000%
+2636,Rollup Finance Stake,Derivatives,0.91,0.0000%
+2637,Bitlen Finance,Lending,0.89,0.0000%
+2638,PixelSwap,Dexs,0.88,0.0000%
+2639,Capy Finance,Farm,0.86,0.0000%
+2640,Bitty,NFT Lending,0.85,0.0000%
+2641,Moonchain,Chain,0.85,0.0000%
+2642,Auro Finance,CDP,0.83,0.0000%
+2643,ReHold V2,Yield,0.81,0.0000%
+2644,Orcus Finance,Algo-Stables,0.81,0.0000%
+2645,Baryon Network,Dexs,0.81,0.0000%
+2646,JulSwap,Dexs,0.80,0.0000%
+2647,Rabbit Swap,Dexs,0.79,0.0000%
+2648,Pacman,Leveraged Farming,0.79,0.0000%
+2649,Titano Swych,Dexs,0.64,0.0000%
+2650,MARSWAP,Dexs,0.62,0.0000%
+2651,RamsesX Polygon Legacy,Dexs,0.60,0.0000%
+2652,40 Acres,Lending,0.58,0.0000%
+2653,TachySwap,Dexs,0.56,0.0000%
+2654,Chimeradex Swap,Dexs,0.54,0.0000%
+2655,Yaakoswap,Dexs,0.51,0.0000%
+2656,BIMA CDP,CDP,0.51,0.0000%
+2657,HX Finance,Dexs,0.50,0.0000%
+2658,Quoll,Yield,0.50,0.0000%
+2659,Ironclad Finance,Lending,0.50,0.0000%
+2660,LazyFi,Gaming,0.46,0.0000%
+2661,Grappa Finance,Options Vault,0.44,0.0000%
+2662,DragonSwap V2 Kaia,Dexs,0.41,0.0000%
+2663,TProtocol V2,RWA,0.40,0.0000%
+2664,xBank Finance,Lending,0.39,0.0000%
+2665,V3S Finance,Algo-Stables,0.36,0.0000%
+2666,Baklava Space,Yield,0.35,0.0000%
+2667,Odyssey Finance,Yield Aggregator,0.32,0.0000%
+2668,MORE Vaults,Onchain Capital Allocator,0.32,0.0000%
+2669,Flex Perpetuals,Derivatives,0.31,0.0000%
+2670,C14,Lending,0.31,0.0000%
+2671,OctoPow Finance,Dexs,0.28,0.0000%
+2672,Liquis,Yield,0.28,0.0000%
+2673,Magsinio,Lending,0.27,0.0000%
+2674,Zoro Protocol,Lending,0.25,0.0000%
+2675,Altera Finance,Risk Curators,0.24,0.0000%
+2676,BabyDoge Algebra,Dexs,0.22,0.0000%
+2677,GoPlus Locker V2,Token Locker,0.22,0.0000%
+2678,LolPad Finance,Dexs,0.21,0.0000%
+2679,Colors,Farm,0.20,0.0000%
+2680,MoveFlow,Payments,0.20,0.0000%
+2681,FXDX,Derivatives,0.19,0.0000%
+2682,Earnifty,Yield Aggregator,0.19,0.0000%
+2683,GoPlus Locker V3,Token Locker,0.17,0.0000%
+2684,RelayChain,Bridge,0.17,0.0000%
+2685,GrassLand Finance,Yield,0.17,0.0000%
+2686,OhMyCrypt,Dexs,0.16,0.0000%
+2687,Swyrl Legacy,Dexs,0.16,0.0000%
+2688,USDD,CDP,0.14,0.0000%
+2689,LendLord,Lending,0.13,0.0000%
+2690,Parallel Lending,Lending,0.13,0.0000%
+2691,Dot Dot Finance,Yield,0.13,0.0000%
+2692,Elephantdex,Dexs,0.13,0.0000%
+2693,Portal To Bitcoin,Bridge,0.13,0.0000%
+2694,PhoLend,Lending,0.12,0.0000%
+2695,Kroma,Chain,0.12,0.0000%
+2696,Orbiter One,Lending,0.11,0.0000%
+2697,Moose,Yield,0.11,0.0000%
+2698,Coinsquare,CEX,0.11,0.0000%
+2699,Voltage V4,Dexs,0.11,0.0000%
+2700,LFGSwap Core,Dexs,0.11,0.0000%
+2701,Lucky Peaches,Lending,0.09,0.0000%
+2702,Rikkei Finance,Lending,0.09,0.0000%
+2703,KEWL EXCHANGE,Dexs,0.09,0.0000%
+2704,Torus,Dexs,0.09,0.0000%
+2705,Kinetix AMM V3,Dexs,0.08,0.0000%
+2706,Kandle Finance,Yield,0.07,0.0000%
+2707,0xLend,Lending,0.07,0.0000%
+2708,SakuraSwap CLMM,Dexs,0.07,0.0000%
+2709,Ghast Protocol,Yield Aggregator,0.06,0.0000%
+2710,CobraSwap,Dexs,0.06,0.0000%
+2711,Soda Protocol,Lending,0.06,0.0000%
+2712,Kyborg Exchange,Dexs,0.05,0.0000%
+2713,KLend,Lending,0.05,0.0000%
+2714,LinkDeFi,Yield Aggregator,0.05,0.0000%
+2715,JIBLEND,Lending,0.05,0.0000%
+2716,LND,Lending,0.05,0.0000%
+2717,Lens Chain,Canonical Bridge,0.04,0.0000%
+2718,Fusefi Lending,Lending,0.04,0.0000%
+2719,Neptune,Dexs,0.04,0.0000%
+2720,Covo V1,Derivatives,0.04,0.0000%
+2721,Scribeswap,Dexs,0.04,0.0000%
+2722,TideSwap DEX,Dexs,0.03,0.0000%
+2723,Gloop,Lending,0.03,0.0000%
+2724,Multi-Chain Miner,Ponzi,0.02,0.0000%
+2725,Rho Markets,Lending,0.02,0.0000%
+2726,Bluewhale,Yield,0.02,0.0000%
+2727,Onyx V2,Lending,0.02,0.0000%
+2728,Moby,Options,0.02,0.0000%
+2729,Strike,Lending,0.02,0.0000%
+2730,Yala,CDP,0.02,0.0000%
+2731,Steadefi,Leveraged Farming,0.02,0.0000%
+2732,ZenFinance,Yield,0.01,0.0000%
+2733,Rollup Finance vAMM,Derivatives,0.01,0.0000%
+2734,FutureSwap,Derivatives,0.01,0.0000%
+2735,TroyDefi,Farm,0.01,0.0000%
+2736,Tethys Perpetual,Derivatives,0.01,0.0000%
+2737,PoWSwap,Dexs,0.01,0.0000%
+2738,Kurrency,CDP,0.01,0.0000%
+2739,Cthulhu.Finance,Yield Aggregator,0.01,0.0000%
+2740,StationDEX V2,Dexs,0.01,0.0000%
+2741,MatrixAI,Algo-Stables,0.01,0.0000%
+2742,Reax Lending,Lending,0.01,0.0000%
+2743,Just Yield,Yield Aggregator,0.01,0.0000%
+2744,Swift Finance,Yield,0.01,0.0000%
+2745,Percent Finance,Lending,0.01,0.0000%
+2746,XBased,Dexs,0.01,0.0000%
+2747,Parrot Protocol,CDP,0.01,0.0000%
+2748,Hakura Protocol,Lending,0.01,0.0000%
+2749,Mars Ecosystem,CDP,0.01,0.0000%
+2750,Forge,Dexs,0.01,0.0000%
+2751,Argano,Synthetics,0.01,0.0000%
+2752,Woken Exchange,Dexs,0.01,0.0000%
+2753,Usury Finance,Lending,0.00,0.0000%
+2754,CakeWSwap,Dexs,0.00,0.0000%
+2755,Hybra V2,Dexs,0.00,0.0000%
+2756,SuperSwap V2,Dexs,0.00,0.0000%
+2757,Voodoo Trade Base,Derivatives,0.00,0.0000%
+2758,AirDAO Bridge,Bridge,0.00,0.0000%
+2759,RamsesX Arbitrum Legacy,Dexs,0.00,0.0000%
+2760,SynFutures V2,Derivatives,0.00,0.0000%
+2761,SoneFi Perp,Derivatives,0.00,0.0000%
+2762,Inuswap,Dexs,0.00,0.0000%
+2763,SashimiSwap,Dexs,0.00,0.0000%
+2764,RIZE,Yield Aggregator,0.00,0.0000%
+2765,Pharaoh V3,Dexs,0.00,0.0000%
+2766,Welnance,Chain,0.00,0.0000%
+2767,Capybara CLMM,Dexs,0.00,0.0000%
+2768,Defi Kingdoms,Dexs,0.00,0.0000%
+2769,Tarina,Dexs,0.00,0.0000%
+2770,Liquify,Dexs,0.00,0.0000%
+2771,Axion Finance V2,Dexs,0.00,0.0000%
+2772,HaloFi,Services,0.00,0.0000%
+2773,OpenZK,Canonical Bridge,0.00,0.0000%
+2774,DeerFi,Lending,0.00,0.0000%
+2775,Ultrasolid V2,Dexs,0.00,0.0000%
+2776,Tivel Finance,Options Vault,0.00,0.0000%
+2777,CorgiSwap,Dexs,0.00,0.0000%
+2778,Stout,CDP,0.00,0.0000%
+2779,Veritable DAO,Yield,0.00,0.0000%
+2780,Onyx Protocol,Lending,0.00,0.0000%
+2781,ClaimSwap V1,Dexs,0.00,0.0000%
+2782,Equito Finance,Bridge,0.00,0.0000%
+2783,Denario,RWA,0.00,0.0000%
+2784,ChickenDefi,Dexs,0.00,0.0000%
+2785,Brokkr Finance,Indexes,0.00,0.0000%
+2786,Sahara Exchange,Dexs,0.00,0.0000%
+2787,Meowswap,Yield,0.00,0.0000%
+2788,OreSwap,Dexs,0.00,0.0000%
+2789,EcoDeFi,Lending,0.00,0.0000%
+2790,Archi Finance,Leveraged Farming,0.00,0.0000%
+2791,Fuzz Finance,Dexs,0.00,0.0000%
+2792,Klap,Lending,0.00,0.0000%
+2793,Everclear,Cross Chain Bridge,0.00,0.0000%
+2794,SyncYield,Yield Aggregator,0.00,0.0000%
+2795,Iotabee,Dexs,0.00,0.0000%
+2796,Lago Bridge,Bridge,0.00,0.0000%
+2797,unFederalReserve,Lending,0.00,0.0000%
+2798,KnightSwap Lending,Lending,0.00,0.0000%
+2799,Knit Finance,Bridge,0.00,0.0000%
+2800,Octopus Finance,Yield Aggregator,0.00,0.0000%
+2801,Pluto,Yield,0.00,0.0000%
+2802,Dough Finance,Lending,0.00,0.0000%
+2803,Valorem,Options Vault,0.00,0.0000%
+2804,Credbull,Farm,0.00,0.0000%
+2805,ArtCPAClub,NFT Marketplace,0.00,0.0000%
+2806,Quell,Yield,0.00,0.0000%
+2807,UniWswap AMM,Dexs,0.00,0.0000%
+2808,Yodeswap,Dexs,0.00,0.0000%
+2809,MANTRA DAO,Lending,0.00,0.0000%
+2810,Wise Lending V2,Lending,0.00,0.0000%
+2811,Spice,Dexs,0.00,0.0000%
+2812,iSwap Tech,Dexs,0.00,0.0000%
+2813,Pharaoh Legacy,Dexs,0.00,0.0000%
+2814,Margin Zero,Options,0.00,0.0000%
+2815,Nano Swap,Dexs,0.00,0.0000%
+2816,OnionSwap,Dexs,0.00,0.0000%
+2817,OxiSwap,Dexs,0.00,0.0000%
+2818,DogeSwapOrg,Dexs,0.00,0.0000%
+2819,Drops,NFT Lending,0.00,0.0000%
+2820,Concave,Services,0.00,0.0000%
+2821,foxify,Derivatives,0.00,0.0000%
+2822,Saturn,Stablecoin Wrapper,0.00,0.0000%
+2823,SakuraSwap AMM,Dexs,0.00,0.0000%
+2824,Sonicxswap,Dexs,0.00,0.0000%
+2825,Vela Exchange,Derivatives,0.00,0.0000%
+2826,Stake DAO,Yield,0.00,0.0000%
+2827,Summer.fi Pro,CDP Manager,0.00,0.0000%
+2828,DAO Swap,Dexs,0.00,0.0000%
+2829,VanillaSwap V3,Dexs,0.00,0.0000%
+2830,JIBSWAP,Dexs,0.00,0.0000%
+2831,Brise Swap,Dexs,0.00,0.0000%
+2832,HiveSwap V3,Dexs,0.00,0.0000%
